@@ -1,1679 +1,1719 @@
-<body>
+<div class="cell-2-wrapper">
 
-<!-- Start Address 329 N. Royal Ave. -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199682.jpg" alt=" 329 N. Royal Ave. "
-                style="width: 100%; height: 100%; object-fit: cover;">
+    <!-- Start Address 329 N. Royal Ave. -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199682.jpg" alt=" 329 N. Royal Ave. "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/barbarabrown.png "
+                        alt="Barbara Brown"> </div>
+    
+                <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/brynknight.png "
+                        alt="Bryn Knight"> </div>
+    
+                <div class="broker-details">
+    
+                    <div class="two-brokers-details-text">
+                        <div class="broker-text-left">
+                            <p style="line-height: 1;"><span>Barbara Brown</span></p>
+                            <p> <a href="tel:(541) 601-4021" class="broker-phone-link">(541) 601-4021</a></p>
+                        </div>
+                        <div class="broker-text-right">
+                            <p style="line-height: 1;"><span>Bryn Knight</span></p>
+                            <p><a href="tel:(458) 229-3050" class="broker-phone-link">(458) 229-3050</a></p>
+                        </div>
 
-            <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/barbarabrown.png "
-                    alt="Barbara Brown"> </div>
-
-            <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/brynknight.png "
-                    alt="Bryn Knight"> </div>
-
-            <div class="broker-details">
-
-                <div class="two-brokers-details-text">
-                    <div class="broker-text-left">
-                        <p style="line-height: 1;"><span>Barbara Brown</span></p>
-                        <p> <a href="tel:(541) 601-4021" class="broker-phone-link">(541) 601-4021</a></p>
                     </div>
-                    <div class="broker-text-right">
-                        <p style="line-height: 1;"><span>Bryn Knight</span></p>
-                        <p><a href="tel:(458) 229-3050" class="broker-phone-link">(458) 229-3050</a></p>
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">329 N. Royal Ave., Eagle Point</div>
+                <div class="price-info">$500,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Charming historic craftsman style home with 4 bed., 2 baths, 2192 sq.ft.
+                    on a .29 of an acre lot, original woodwork, large back yard with garden area and a screened in front
+                    porch. Central heat/air and a new roof.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://barbarabrown.johnlscott.com/220199682" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 329 N. Royal Ave. -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    <!-- Start Address 1223 Queen Anne Ave -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197342.jpg" alt=" 1223 Queen Anne Ave "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/kathyba.png "
+                        alt="Kathy Bauer"> </div>
+    
+                <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/audracastillo.png "
+                        alt="Audra Castillo"> </div>
+    
+                <div class="broker-details">
+    
+                    <div class="two-brokers-details-text">
+                        <div class="broker-text-left">
+                            <p style="line-height: 1;"><span>Kathy Bauer</span></p>
+                            <p> <a href="tel:(541) 690-8287" class="broker-phone-link">(541) 690-8287</a></p>
+                        </div>
+                        <div class="broker-text-right">
+                            <p style="line-height: 1;"><span>Audra Castillo</span></p>
+                            <p><a href="tel:(541) 690-8287" class="broker-phone-link">(541) 690-8287</a></p>
+                        </div>
+    
                     </div>
-
                 </div>
             </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">329 N. Royal Ave., Eagle Point</div>
-            <div class="price-info">$500,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Charming historic craftsman style home with 4 bed., 2 baths, 2192 sq.ft.
-                on a .29 of an acre lot, original woodwork, large back yard with garden area and a screened in front
-                porch. Central heat/air and a new roof.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://barbarabrown.johnlscott.com/220199682" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
+            <div class="address-bar">
+                <div class="address-info">1223 Queen Anne Ave, Medford</div>
+                <div class="price-info">$434,420</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Charming 3bd/2ba home loaded w/character, modern updates & quality
+                    amenities. Updated kitchen, gas range/oven & vintage Dutch door. Upstairs Primary w/ full bath, brand
+                    new carpet, & walk-in closet. Guest quarters studio w/full bath, kitchen & separate parking under the
+                    carport. </p>
+            </div>
+            <div class="address-more">
+                <a href="https://audracastillo.johnlscott.com/220197342" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
         </div>
     </div>
-</div>
-<!-- End Address 329 N. Royal Ave. -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-<!-- Start Address 1223 Queen Anne Ave -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197342.jpg" alt=" 1223 Queen Anne Ave "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/kathyba.png "
-                    alt="Kathy Bauer"> </div>
-
-            <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/audracastillo.png "
-                    alt="Audra Castillo"> </div>
-
-            <div class="broker-details">
-
-                <div class="two-brokers-details-text">
-                    <div class="broker-text-left">
-                        <p style="line-height: 1;"><span>Kathy Bauer</span></p>
-                        <p> <a href="tel:(541) 690-8287" class="broker-phone-link">(541) 690-8287</a></p>
+    <!-- End Address 1223 Queen Anne Ave -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 486 N. Deanjou  -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199072.jpg" alt=" 486 N. Deanjou  "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/brandiv.png "
+                        alt="Brandi Verkempinck "> </div>
+    
+                <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/michellethomas.png "
+                        alt="Michelle Thomas"> </div>
+    
+                <div class="broker-details">
+    
+                    <div class="two-brokers-details-text">
+                        <div class="broker-text-left">
+                            <p style="line-height: 1;"><span>Brandi Verkempinck </span></p>
+                            <p> <a href="tel:(541) 414-4142" class="broker-phone-link">(541) 414-4142</a></p>
+                        </div>
+                        <div class="broker-text-right">
+                            <p style="line-height: 1;"><span>Michelle Thomas</span></p>
+                            <p><a href="tel:(541) 414-4142" class="broker-phone-link">(541) 414-4142</a></p>
+                        </div>
+    
                     </div>
-                    <div class="broker-text-right">
-                        <p style="line-height: 1;"><span>Audra Castillo</span></p>
-                        <p><a href="tel:(541) 690-8287" class="broker-phone-link">(541) 690-8287</a></p>
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">486 N. Deanjou , Eagle Point</div>
+                <div class="price-info">$555,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Spacious 4bed/3ba home in desirable Sienna Hills! Built in 2008 and
+                    offering 2,063 sq ft on a prime corner lot. Immaculately maintained. 2 car with detached 2 car and full
+                    RV parking with hookups.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://thomasgroup.johnlscott.com/220199072" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 486 N. Deanjou  -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 1836 Roberts Rd -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200534-1.jpg" alt=" 1836 Roberts Rd "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/michellethomas.png "
+                        alt="Michelle Thomas "> </div>
+    
+                <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/brandiv.png "
+                        alt="Brandi Verkempinck "> </div>
+    
+                <div class="broker-details">
+    
+                    <div class="two-brokers-details-text">
+                        <div class="broker-text-left">
+                            <p style="line-height: 1;"><span>Michelle Thomas </span></p>
+                            <p> <a href="tel:(541) 414-4142" class="broker-phone-link">(541) 414-4142</a></p>
+                        </div>
+                        <div class="broker-text-right">
+                            <p style="line-height: 1;"><span>Brandi Verkempinck </span></p>
+                            <p><a href="tel:(541) 414-4142" class="broker-phone-link">(541) 414-4142</a></p>
+                        </div>
+    
                     </div>
-
                 </div>
             </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1223 Queen Anne Ave, Medford</div>
-            <div class="price-info">$434,420</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Charming 3bd/2ba home loaded w/character, modern updates & quality
-                amenities. Updated kitchen, gas range/oven & vintage Dutch door. Upstairs Primary w/ full bath, brand
-                new carpet, & walk-in closet. Guest quarters studio w/full bath, kitchen & separate parking under the
-                carport. </p>
-        </div>
-        <div class="address-more">
-            <a href="https://audracastillo.johnlscott.com/220197342" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
+            <div class="address-bar">
+                <div class="address-info">1836 Roberts Rd, Medford</div>
+                <div class="price-info">$458,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Beautifully remodeled 3BR/2BA home—move-in ready! Features durable
+                    25-year laminate flooring throughout and RV parking for your adventures. Entertainer’s dream with
+                    spacious covered patio perfect for gatherings. Modern finishes, open layout, and plenty of charm—come
+                    tour it today!"</p>
+            </div>
+            <div class="address-more">
+                <a href="https://thomasgroup.johnlscott.com/220200534" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
         </div>
     </div>
-</div>
-<!-- End Address 1223 Queen Anne Ave -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 486 N. Deanjou  -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199072.jpg" alt=" 486 N. Deanjou  "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/brandiv.png "
-                    alt="Brandi Verkempinck "> </div>
-
-            <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/michellethomas.png "
-                    alt="Michelle Thomas"> </div>
-
-            <div class="broker-details">
-
-                <div class="two-brokers-details-text">
-                    <div class="broker-text-left">
-                        <p style="line-height: 1;"><span>Brandi Verkempinck </span></p>
-                        <p> <a href="tel:(541) 414-4142" class="broker-phone-link">(541) 414-4142</a></p>
+    <!-- End Address 1836 Roberts Rd -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 1180 Woodrow Ln -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197279.jpg" alt=" 1180 Woodrow Ln "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/chelsielong.png "
+                        alt="Chelsie Long"> </div>
+    
+                <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/danmollahan.png "
+                        alt="Dan Mollahan"> </div>
+    
+                <div class="broker-details">
+    
+                    <div class="two-brokers-details-text">
+                        <div class="broker-text-left">
+                            <p style="line-height: 1;"><span>Chelsie Long</span></p>
+                            <p> <a href="tel:(541) 326-5777" class="broker-phone-link">(541) 326-5777</a></p>
+                        </div>
+                        <div class="broker-text-right">
+                            <p style="line-height: 1;"><span>Dan Mollahan</span></p>
+                            <p><a href="tel:(541) 890-8714" class="broker-phone-link">(541) 890-8714</a></p>
+                        </div>
+    
                     </div>
-                    <div class="broker-text-right">
-                        <p style="line-height: 1;"><span>Michelle Thomas</span></p>
-                        <p><a href="tel:(541) 414-4142" class="broker-phone-link">(541) 414-4142</a></p>
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">1180 Woodrow Ln, Medford</div>
+                <div class="price-info">$335,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">You'll love this brand new 3 bed, 2 bath home in desirable East Medford!
+                    Nestled in a charming pocket neighborhood this home was built with energy efficiency in mind so you can
+                    save on utility bills & remain comfortable all year.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://chelsielong.johnlscott.com/220197279" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 1180 Woodrow Ln -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 2671 Aldersgate Rd -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200641.jpg" alt=" 2671 Aldersgate Rd "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/michelef.png " alt="Michele Fleisher">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Michele Fleisher<br></span> <a href="tel:(541) 538-8554"
+                                class="broker-phone-link">(541) 538-8554</a></p>
                     </div>
-
+    
+    
                 </div>
             </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">486 N. Deanjou , Eagle Point</div>
-            <div class="price-info">$555,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Spacious 4bed/3ba home in desirable Sienna Hills! Built in 2008 and
-                offering 2,063 sq ft on a prime corner lot. Immaculately maintained. 2 car with detached 2 car and full
-                RV parking with hookups.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://thomasgroup.johnlscott.com/220199072" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
+            <div class="address-bar">
+                <div class="address-info">2671 Aldersgate Rd, Medford</div>
+                <div class="price-info">$479,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">4-bed/2-bath single-level East Medford home in Abraham Lincoln School
+                    District. Features a fantastic backyard, two living spaces with wood fireplace, vaulted master with
+                    ensuite, generous bedrooms, covered patio and fenced yard. Wonderful family home in a superb location.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://michelef.johnlscott.com/220200641" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
         </div>
     </div>
-</div>
-<!-- End Address 486 N. Deanjou  -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 1836 Roberts Rd -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200534-1.jpg" alt=" 1836 Roberts Rd "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/michellethomas.png "
-                    alt="Michelle Thomas "> </div>
-
-            <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/brandiv.png "
-                    alt="Brandi Verkempinck "> </div>
-
-            <div class="broker-details">
-
-                <div class="two-brokers-details-text">
-                    <div class="broker-text-left">
-                        <p style="line-height: 1;"><span>Michelle Thomas </span></p>
-                        <p> <a href="tel:(541) 414-4142" class="broker-phone-link">(541) 414-4142</a></p>
+    <!-- End Address 2671 Aldersgate Rd -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 360 Oxford Street  -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/193/220193655.jpg" alt=" 360 Oxford Street  "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/team/dandd.png " alt="DeAnna + Dyan Real Estate Team ">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>DeAnna + Dyan Real Estate Team <br></span> <a href="tel:(541) 414-4663"
+                                class="broker-phone-link">(541) 414-4663</a></p>
                     </div>
-                    <div class="broker-text-right">
-                        <p style="line-height: 1;"><span>Brandi Verkempinck </span></p>
-                        <p><a href="tel:(541) 414-4142" class="broker-phone-link">(541) 414-4142</a></p>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">360 Oxford Street , Ashland</div>
+                <div class="price-info">$565,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Move in ready! Four bedroom home has been lovingly remodeled, with
+                    concrete countertops, stainless appliances & quality cabinetry in the open & functional kitchen. French
+                    door access to the private backyard with in ground, heated saltwater pool. Hard to find RV parking! </p>
+            </div>
+            <div class="address-more">
+                <a href="https://dandd.johnlscott.com/220193655" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 360 Oxford Street  -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 1049 Worchester Dr -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/thumbs/orsomls/220/200/220200126.jpg" alt=" 1049 Worchester Dr "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/clyon.png " alt="Colin Lyon">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Colin Lyon<br></span> <a href="tel:(541) 205-2632"
+                                class="broker-phone-link">(541) 205-2632</a></p>
                     </div>
-
+    
+    
                 </div>
             </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1836 Roberts Rd, Medford</div>
-            <div class="price-info">$458,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Beautifully remodeled 3BR/2BA home—move-in ready! Features durable
-                25-year laminate flooring throughout and RV parking for your adventures. Entertainer’s dream with
-                spacious covered patio perfect for gatherings. Modern finishes, open layout, and plenty of charm—come
-                tour it today!"</p>
-        </div>
-        <div class="address-more">
-            <a href="https://thomasgroup.johnlscott.com/220200534" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
+            <div class="address-bar">
+                <div class="address-info">1049 Worchester Dr, Medford</div>
+                <div class="price-info">$460,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">This Charming Home is nestled in the quiet, family-friendly neighborhood
+                    of the popular Candlewood subdivision. Boasting an open floor plan featuring soaring Cathedral Ceilings
+                    that add a sense of grandeur. Free Electricity with Solar Panels Paid Off at Closing.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://clyon.johnlscott.com/220200126" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
         </div>
     </div>
-</div>
-<!-- End Address 1836 Roberts Rd -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 1180 Woodrow Ln -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197279.jpg" alt=" 1180 Woodrow Ln "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/chelsielong.png "
-                    alt="Chelsie Long"> </div>
-
-            <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/danmollahan.png "
-                    alt="Dan Mollahan"> </div>
-
-            <div class="broker-details">
-
-                <div class="two-brokers-details-text">
-                    <div class="broker-text-left">
-                        <p style="line-height: 1;"><span>Chelsie Long</span></p>
-                        <p> <a href="tel:(541) 326-5777" class="broker-phone-link">(541) 326-5777</a></p>
+    <!-- End Address 1049 Worchester Dr -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 1225 Gardner Way -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/173/220173720.jpg" alt=" 1225 Gardner Way "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
+                                class="broker-phone-link">(541) 944-3338</a></p>
                     </div>
-                    <div class="broker-text-right">
-                        <p style="line-height: 1;"><span>Dan Mollahan</span></p>
-                        <p><a href="tel:(541) 890-8714" class="broker-phone-link">(541) 890-8714</a></p>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">1225 Gardner Way, Medford</div>
+                <div class="price-info">$1,185,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Gorgeous, architecturally designed home, with timeless clean lines, on 5
+                    gently sloping acres. Enjoy spectacular views of the valley & surrounding mountains from this modern 4
+                    bed, 3 bath home featuring luxury details & upgrades throughout.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://dixieh.johnlscott.com/220173720" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 1225 Gardner Way -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 325 Jackson Creek Drive -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 12-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199674.jpg"
+                    alt=" 325 Jackson Creek Drive " style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/juliekrason.png " alt="Julie Krason">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Julie Krason<br></span> <a href="tel:(541) 362-4663"
+                                class="broker-phone-link">(541) 362-4663</a></p>
                     </div>
-
+    
+    
                 </div>
             </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1180 Woodrow Ln, Medford</div>
-            <div class="price-info">$335,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">You'll love this brand new 3 bed, 2 bath home in desirable East Medford!
-                Nestled in a charming pocket neighborhood this home was built with energy efficiency in mind so you can
-                save on utility bills & remain comfortable all year.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://chelsielong.johnlscott.com/220197279" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
+            <div class="address-bar">
+                <div class="address-info">325 Jackson Creek Drive, Jacksonville</div>
+                <div class="price-info">$990,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Extensively remodeled in 2008, this beautiful home in Nunan Square in
+                    Jacksonville offers many upgrades including 20' ceilings, main floor primary suite, hardwood flooring,
+                    gas fireplace, large covered front porch, and a fully furnished, detached studio ADU above the garage.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://juliekrason.johnlscott.com/220199674" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
         </div>
     </div>
-</div>
-<!-- End Address 1180 Woodrow Ln -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 2671 Aldersgate Rd -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200641.jpg" alt=" 2671 Aldersgate Rd "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/michelef.png " alt="Michele Fleisher">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Michele Fleisher<br></span> <a href="tel:(541) 538-8554"
-                            class="broker-phone-link">(541) 538-8554</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">2671 Aldersgate Rd, Medford</div>
-            <div class="price-info">$479,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">4-bed/2-bath single-level East Medford home in Abraham Lincoln School
-                District. Features a fantastic backyard, two living spaces with wood fireplace, vaulted master with
-                ensuite, generous bedrooms, covered patio and fenced yard. Wonderful family home in a superb location.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://michelef.johnlscott.com/220200641" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 2671 Aldersgate Rd -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 360 Oxford Street  -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/193/220193655.jpg" alt=" 360 Oxford Street  "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/team/dandd.png " alt="DeAnna + Dyan Real Estate Team ">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>DeAnna + Dyan Real Estate Team <br></span> <a href="tel:(541) 414-4663"
-                            class="broker-phone-link">(541) 414-4663</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">360 Oxford Street , Ashland</div>
-            <div class="price-info">$565,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Move in ready! Four bedroom home has been lovingly remodeled, with
-                concrete countertops, stainless appliances & quality cabinetry in the open & functional kitchen. French
-                door access to the private backyard with in ground, heated saltwater pool. Hard to find RV parking! </p>
-        </div>
-        <div class="address-more">
-            <a href="https://dandd.johnlscott.com/220193655" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 360 Oxford Street  -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 1049 Worchester Dr -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/thumbs/orsomls/220/200/220200126.jpg" alt=" 1049 Worchester Dr "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/clyon.png " alt="Colin Lyon">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Colin Lyon<br></span> <a href="tel:(541) 205-2632"
-                            class="broker-phone-link">(541) 205-2632</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1049 Worchester Dr, Medford</div>
-            <div class="price-info">$460,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">This Charming Home is nestled in the quiet, family-friendly neighborhood
-                of the popular Candlewood subdivision. Boasting an open floor plan featuring soaring Cathedral Ceilings
-                that add a sense of grandeur. Free Electricity with Solar Panels Paid Off at Closing.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://clyon.johnlscott.com/220200126" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 1049 Worchester Dr -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 1225 Gardner Way -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/173/220173720.jpg" alt=" 1225 Gardner Way "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
-                            class="broker-phone-link">(541) 944-3338</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1225 Gardner Way, Medford</div>
-            <div class="price-info">$1,185,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Gorgeous, architecturally designed home, with timeless clean lines, on 5
-                gently sloping acres. Enjoy spectacular views of the valley & surrounding mountains from this modern 4
-                bed, 3 bath home featuring luxury details & upgrades throughout.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://dixieh.johnlscott.com/220173720" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 1225 Gardner Way -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 325 Jackson Creek Drive -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 12-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199674.jpg"
-                alt=" 325 Jackson Creek Drive " style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/juliekrason.png " alt="Julie Krason">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Julie Krason<br></span> <a href="tel:(541) 362-4663"
-                            class="broker-phone-link">(541) 362-4663</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">325 Jackson Creek Drive, Jacksonville</div>
-            <div class="price-info">$990,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Extensively remodeled in 2008, this beautiful home in Nunan Square in
-                Jacksonville offers many upgrades including 20' ceilings, main floor primary suite, hardwood flooring,
-                gas fireplace, large covered front porch, and a fully furnished, detached studio ADU above the garage.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://juliekrason.johnlscott.com/220199674" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 325 Jackson Creek Drive -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 4424 Park Ridge Dr. -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/198/220198859.jpg" alt=" 4424 Park Ridge Dr. "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-
-            <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/jjkramer.png "
-                    alt="JJ Kramer"> </div>
-
-            <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/griffinlarson.png"
-                    alt="Griffin Larson"> </div>
-
-            <div class="broker-details">
-
-                <div class="two-brokers-details-text">
-                    <div class="broker-text-left">
-                        <p style="line-height: 1;"><span>JJ Kramer</span></p>
-                        <p> <a href="tel:(541) 840-2992" class="broker-phone-link">(541) 840-2992</a></p>
+    <!-- End Address 325 Jackson Creek Drive -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 4424 Park Ridge Dr. -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/198/220198859.jpg" alt=" 4424 Park Ridge Dr. "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+    
+                <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/jjkramer.png "
+                        alt="JJ Kramer"> </div>
+    
+                <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/griffinlarson.png"
+                        alt="Griffin Larson"> </div>
+    
+                <div class="broker-details">
+    
+                    <div class="two-brokers-details-text">
+                        <div class="broker-text-left">
+                            <p style="line-height: 1;"><span>JJ Kramer</span></p>
+                            <p> <a href="tel:(541) 840-2992" class="broker-phone-link">(541) 840-2992</a></p>
+                        </div>
+                        <div class="broker-text-right">
+                            <p style="line-height: 1;"><span>Griffin Larson</span></p>
+                            <p><a href="tel:(541) 613-6825" class="broker-phone-link">(541) 613-6825</a></p>
+                        </div>
+    
                     </div>
-                    <div class="broker-text-right">
-                        <p style="line-height: 1;"><span>Griffin Larson</span></p>
-                        <p><a href="tel:(541) 613-6825" class="broker-phone-link">(541) 613-6825</a></p>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">4424 Park Ridge Dr., Medford</div>
+                <div class="price-info">$649,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Stunning new construction at Vista Pointe in East Medford, offering
+                    breathtaking mountain views. This 4-bedroom, 2.5-bath home features a spacious primary suite on the
+                    main
+                    level, soaring ceilings, a gourmet kitchen with high-end finishes, & beautifully landscaped
+                    backyard.
+                    Luxury upgrades throughout!</p>
+            </div>
+            <div class="address-more">
+                <a href="https://jjkramer.johnlscott.com/220198859" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 4424 Park Ridge Dr. -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 4506 Pinnacle Drive -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/196/220196024.jpg" alt=" 4506 Pinnacle Drive "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
+                                class="broker-phone-link">(541) 944-3338</a></p>
                     </div>
-
+    
+    
                 </div>
-
-
             </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">4424 Park Ridge Dr., Medford</div>
-            <div class="price-info">$649,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Stunning new construction at Vista Pointe in East Medford, offering
-                breathtaking mountain views. This 4-bedroom, 2.5-bath home features a spacious primary suite on the
-                main
-                level, soaring ceilings, a gourmet kitchen with high-end finishes, & beautifully landscaped
-                backyard.
-                Luxury upgrades throughout!</p>
-        </div>
-        <div class="address-more">
-            <a href="https://jjkramer.johnlscott.com/220198859" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
+            <div class="address-bar">
+                <div class="address-info">4506 Pinnacle Drive, Medford</div>
+                <div class="price-info">$1,195,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Step into luxury living & valley views in this breathtaking Pagnini
+                    designed 4 bed, 2.5 bath home. Main level primary, gourmet kitchen, formal living & dining room,
+                    versatile family & bonus room. Stucco exterior, tile roof, dedicated shop & oversized 3-car garage.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://dixieh.johnlscott.com/220196024" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
         </div>
     </div>
-</div>
-<!-- End Address 4424 Park Ridge Dr. -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 4506 Pinnacle Drive -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/196/220196024.jpg" alt=" 4506 Pinnacle Drive "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
-                            class="broker-phone-link">(541) 944-3338</a></p>
+    <!-- End Address 4506 Pinnacle Drive -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 645 E California St -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197914.jpg" alt=" 645 E California St "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/shannontomes.png " alt="Shannon Tomes">
                 </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">4506 Pinnacle Drive, Medford</div>
-            <div class="price-info">$1,195,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Step into luxury living & valley views in this breathtaking Pagnini
-                designed 4 bed, 2.5 bath home. Main level primary, gourmet kitchen, formal living & dining room,
-                versatile family & bonus room. Stucco exterior, tile roof, dedicated shop & oversized 3-car garage.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://dixieh.johnlscott.com/220196024" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 4506 Pinnacle Drive -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 645 E California St -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197914.jpg" alt=" 645 E California St "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/shannontomes.png " alt="Shannon Tomes">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Shannon Tomes<br></span> <a href="tel:(541) 941-7151"
-                            class="broker-phone-link">(541) 941-7151</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">645 E California St, Jacksonville</div>
-            <div class="price-info">$795,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">The historic CR Pursell log cabin blends vintage charm with modern
-                comfort. Featuring three+ bedrooms, updated kitchen, spacious decks, and a stone fireplace, it also
-                includes a finished basement, garage/shop, and beautiful grounds with gardens and outdoor living
-                areas.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://shannontomes.johnlscott.com/220197914" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 645 E California St -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 2485 Terri Drive -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/185/220185794.jpg" alt=" 2485 Terri Drive "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
-                            class="broker-phone-link">(541) 944-3338</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">2485 Terri Drive, Medford</div>
-            <div class="price-info">$1,450,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Gorgeous, contemporary estate w/unsurpassed views of the valley,
-                city
-                lights & Mt. Ashland. This beautifully appointed 3 bed, 2.5 bath home is positioned on 5 serene,
-                irrigated acres w/gated entry. Fantastic 40x60 detached garage w/12 & 14 ft doors & RV hookup.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://dixieh.johnlscott.com/220185794" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 2485 Terri Drive -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 668 Wagon Trail -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197235.jpg" alt=" 668 Wagon Trail "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
-                            class="broker-phone-link">(541) 944-3338</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">668 Wagon Trail, Jacksonville</div>
-            <div class="price-info">$1,150,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Stunning contemporary farmhouse w/breathtaking mountain views, just
-                minutes to downtown Jacksonville, Britt Festival, renowned wineries & more! Set on 10.02 acres, this
-                gated 4 bed, 3.5 bath home features 2 primary suites & is recognized as a National Firewise USA
-                site.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://dixieh.johnlscott.com/220197235" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 668 Wagon Trail -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 137 Keystone Way -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/196/220196711-19.jpg" alt=" 137 Keystone Way "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
-                            class="broker-phone-link">(541) 944-3338</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">137 Keystone Way, Eagle Point</div>
-            <div class="price-info">$569,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Resort-Style living with breathtaking views of Eagle Point’s Robert
-                Trent Jones Golf Course! This immaculately maintained single-story 3 bed, 2 bath home boasts prime
-                golf
-                course frontage and a spacious, beautifully landscaped backyard w/mature, low maintenance greenery
-                and
-                water feature.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://dixieh.johnlscott.com/220196711" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 137 Keystone Way -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 521 Sterling Point Dr -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE SUNDAY 2-4PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197655.jpg" alt=" 521 Sterling Point Dr "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/shellyculbertson.png " alt="Dave & Shelly Culbertson">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dave & Shelly Culbertson<br></span> <a href="tel:(541) 941-9559"
-                            class="broker-phone-link">(541) 941-9559</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">521 Sterling Point Dr, Medford</div>
-            <div class="price-info">$535,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Updated throughout! Enjoy smart home features, solar panels, RV pad
-                with
-                hookups and a 3-car garage to meet all your storage needs. This home is the perfect blend of modern
-                upgrades, convenience and outdoor enjoyment.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://shellyculbertson.johnlscott.com/220197655" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 521 Sterling Point Dr -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 2962 El Dorado Drive -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">Pending</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199135.jpg" alt=" 2962 El Dorado Drive "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/logano.png " alt="Logan Odom">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Logan Odom<br></span> <a href="tel:(541) 646-4288"
-                            class="broker-phone-link">(541) 646-4288</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">2962 El Dorado Drive, Medford</div>
-            <div class="price-info">$439,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Spacious 3-bed, 2-bath East Medford home near medical and the
-                Country
-                Club. Features two living areas, split floor plan, beautifully landscaped yards, in ground pool,
-                patio,
-                and storage shed. Quiet neighborhood. 1,884 sq ft for only $439,000. </p>
-        </div>
-        <div class="address-more">
-            <a href="https://logano.johnlscott.com/220199135" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 2962 El Dorado Drive -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 321 Snowy Butte Lane -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199712.jpg" alt=" 321 Snowy Butte Lane "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
-                            class="broker-phone-link">(541) 944-3338</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">321 Snowy Butte Lane, Central Point</div>
-            <div class="price-info">$405,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Move-in-Ready single story 3 bed, 2 bath with a spacious living area
-                including a tray ceiling & gracious bay window, primary suite featuring an updated ensuite &
-                dedicated
-                laundry/mud room w/built-in cabinetry. Beautiful, mature landscaping, 2-car garage & gated RV
-                parking.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://dixieh.johnlscott.com/220199712" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 321 Snowy Butte Lane -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 914 Sellwood Drive -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200159.jpg" alt=" 914 Sellwood Drive "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/logano.png " alt="Logan Odom">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Logan Odom<br></span> <a href="tel:(541) 646-4288"
-                            class="broker-phone-link">(541) 646-4288</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">914 Sellwood Drive, Eagle Point</div>
-            <div class="price-info">$455,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Spacious Eagle Point home on the largest lot in the
-                neighborhood—features include vaulted ceilings, granite countertops, oversize RV parking, above
-                ground
-                pool, fenced yard, Mount McLoughlin views, and a stylish, open layout.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://logano.johnlscott.com/220200159" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 914 Sellwood Drive -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 7591 Wilson Way -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/196/220196265.jpg" alt=" 7591 Wilson Way "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
-                            class="broker-phone-link">(541) 944-3338</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">7591 Wilson Way, White City</div>
-            <div class="price-info">$400,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Don’t miss this single-level 3 bed, 2 bath handicap accessible home
-                nestled on a peaceful dead-end street. Spacious living & dining w/laminate flooring & soaring
-                ceilings.
-                Convenient kitchen, primary suite & a dedicated laundry/mud room. Fully fenced w/low maintenance
-                landscaping & a 2-car garage. </p>
-        </div>
-        <div class="address-more">
-            <a href="https://dixieh.johnlscott.com/220196265" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 7591 Wilson Way -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 1855 Willow Glen Way -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200117.jpg" alt=" 1855 Willow Glen Way "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
-                            class="broker-phone-link">(541) 944-3338</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1855 Willow Glen Way, Medford</div>
-            <div class="price-info">$450,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Beautifully maintained single level 3 bed, 2 bath located in a
-                sought-after East Medford neighborhood. Featuring an expansive living room w/hardwood entry, gourmet
-                kitchen, open dining area & spacious primary suite. AMAZING, park-like landscaping, 2-car garage &
-                small
-                RV area for toys!</p>
-        </div>
-        <div class="address-more">
-            <a href="https://dixieh.johnlscott.com/220200117" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 1855 Willow Glen Way -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 7081 Redthorne Rd. -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 3-5PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197588.jpg" alt=" 7081 Redthorne Rd. "
-                style="width: 100%; height: 100%; object-fit: cover;">
-            
-
-            <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/jeaninehealy.png "
-                    alt="Jeanine Healy"> </div>
-
-            <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/acourson.png"
-                    alt="Amanda Courson"> </div>
-
-            <div class="broker-details">
-
-                <div class="two-brokers-details-text">
-                    <div class="broker-text-left">
-                        <p style="line-height: 1;"><span>Jeanine Healy</span></p>
-                        <p> <a href="tel:(541) 261-4726" class="broker-phone-link">(541) 261-4726</a></p>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Shannon Tomes<br></span> <a href="tel:(541) 941-7151"
+                                class="broker-phone-link">(541) 941-7151</a></p>
                     </div>
-                    <div class="broker-text-right">
-                        <p style="line-height: 1;"><span>Amanda Courson</span></p>
-                        <p><a href="tel:(949) 335-2913" class="broker-phone-link">(949) 335-2913</a></p>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">645 E California St, Jacksonville</div>
+                <div class="price-info">$795,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">The historic CR Pursell log cabin blends vintage charm with modern
+                    comfort. Featuring three+ bedrooms, updated kitchen, spacious decks, and a stone fireplace, it also
+                    includes a finished basement, garage/shop, and beautiful grounds with gardens and outdoor living
+                    areas.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://shannontomes.johnlscott.com/220197914" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 645 E California St -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 2485 Terri Drive -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/185/220185794.jpg" alt=" 2485 Terri Drive "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
+                                class="broker-phone-link">(541) 944-3338</a></p>
                     </div>
-
+    
+    
                 </div>
-
-
             </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">7081 Redthorne Rd., Rogue River</div>
-            <div class="price-info">$895,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Beautiful gated 3 level acres w/ picturesque year-round pond.
-                Immaculate
-                custom home, 2952 sf. Main level primary, 2 frplc, family rm, great rm, dining rm, 4bd, 4 bath, 3
-                car
-                gar plus shop & RV garage w/ hook-ups.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://jeaninehealy.johnlscott.com/220197588" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
+            <div class="address-bar">
+                <div class="address-info">2485 Terri Drive, Medford</div>
+                <div class="price-info">$1,450,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Gorgeous, contemporary estate w/unsurpassed views of the valley,
+                    city
+                    lights & Mt. Ashland. This beautifully appointed 3 bed, 2.5 bath home is positioned on 5 serene,
+                    irrigated acres w/gated entry. Fantastic 40x60 detached garage w/12 & 14 ft doors & RV hookup.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://dixieh.johnlscott.com/220185794" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
         </div>
     </div>
-</div>
-<!-- End Address 7081 Redthorne Rd. -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 700 Hueners Lane  -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-4PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/195/220195651-9.jpg" alt=" 700 Hueners Lane  "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/nicollehenderson.png " alt="Nicolle Henderson">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Nicolle Henderson<br></span> <a href="tel:(541) 951-7612"
-                            class="broker-phone-link">(541) 951-7612</a></p>
+    <!-- End Address 2485 Terri Drive -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 668 Wagon Trail -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197235.jpg" alt=" 668 Wagon Trail "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
                 </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">700 Hueners Lane , Jacksonville</div>
-            <div class="price-info">$440,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Tucked away on a spacious .29-acre lot, this beautifully remodeled
-                and
-                move-in ready cottage in Jacksonville is a true find. Stunning kitchen with white cabinetry, quartz
-                countertops & stainless appliances. Potential for an ADU - buyer to perform due diligence with City.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://nicollehenderson.johnlscott.com/220195651" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 700 Hueners Lane  -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 2833 Rosemont Ave -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199616.jpg" alt=" 2833 Rosemont Ave "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
-                            class="broker-phone-link">(541) 301-7980</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">2833 Rosemont Ave, Medford</div>
-            <div class="price-info">$470,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Beautifully remodeled home near Asante hospital has 2 Primary
-                Suites,
-                in-ground pool, 2 separate common areas, freshly painted decks and lounging areas. Updates include
-                newly
-                installed flooring, carpet and all 3 bathrooms. Great for large families, multi-generational living
-                or
-                roommates. </p>
-        </div>
-        <div class="address-more">
-            <a href="https://alicelema.johnlscott.com/220199616" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 2833 Rosemont Ave -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 109 Geneva St -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197275.jpg" alt=" 109 Geneva St "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
-                            class="broker-phone-link">(541) 301-7980</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">109 Geneva St, Medford</div>
-            <div class="price-info">$399,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Amazing opportunity to own & restore an original 1911 Craftsman home
-                on
-                historic Geneva St. Front porch is perfect for entertaining. Original hardwood floors, 5-panel
-                doors, &
-                fenced back yard with carriage house. So much potential in this 2 bed, 2 bath!</p>
-        </div>
-        <div class="address-more">
-            <a href="https://alicelema.johnlscott.com/220197275" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 109 Geneva St -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 130 Candice Ct -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/193/220193338.jpg" alt=" 130 Candice Ct "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
-                            class="broker-phone-link">(541) 301-7980</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">130 Candice Ct, Medford</div>
-            <div class="price-info">$510,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Granite counters, real oak floors, 2 primary suites, in the East
-                Medford
-                hills. Split level home has a total of 4 beds, 3 full baths. Back patio with terraced yard. 2 chair
-                lifts for split level stairs can be removed.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://alicelema.johnlscott.com/220193338" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 130 Candice Ct -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 1055 N 5th St -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200378.jpg" alt=" 1055 N 5th St "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
-                            class="broker-phone-link">(541) 301-7980</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1055 N 5th St, Jacksonville</div>
-            <div class="price-info">$225,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Move-in ready home with newer floors, double paned windows, and lots
-                of
-                extras just blocks from downtown Jacksonville! 2 bedrooms with attached bathrooms and lovely
-                sunroom/bonus Area. Space rent is $645. Park approval required. Royal Estates is a 55+ park.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://alicelema.johnlscott.com/220200378" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 1055 N 5th St -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 1016 Court St -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/194/220194862.jpg" alt=" 1016 Court St "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
-                            class="broker-phone-link">(541) 301-7980</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1016 Court St, Medford</div>
-            <div class="price-info">$410,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Nice commercial building 1088sf, updated and remodeled. Currently
-                the
-                interior is divided into 6-7 office spaces, one large restroom facility, and 9 parking spaces.
-                Formal
-                front entrance plus 2 back entrances. High traffic area with lots of possibilities for signage. </p>
-        </div>
-        <div class="address-more">
-            <a href="https://alicelema.johnlscott.com/220194862" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 1016 Court St -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 395 Rio Nes Ln -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200202.jpg" alt=" 395 Rio Nes Ln "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
-                            class="broker-phone-link">(541) 301-7980</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">395 Rio Nes Ln, Roseburg</div>
-            <div class="price-info">$1,175,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Custom home with 6,042 SqFt, approx 500 ft of riverfront, unique
-                architectural features, 2 stall barn/shop, all on 2 tax lots totaling over 24 acres. Home has
-                spectacular river & mountain views from main living areas, attached in-law apartment and more! </p>
-        </div>
-        <div class="address-more">
-            <a href="https://alicelema.johnlscott.com/220200202" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 395 Rio Nes Ln -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-
-<!-- Start Address 225 Black Oak Dr Medford  -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/195/220195795.jpg"
-                alt=" 225 Black Oak Dr Medford  " style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/skyeflora.png " alt="Skye Flora">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Skye Flora<br></span> <a href="tel:(541) 301-6614"
-                            class="broker-phone-link">(541) 301-6614</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">225 Black Oak Dr Medford , Medford</div>
-            <div class="price-info">$790,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Incredible 4 bd 3 ba home on 1/2 acre lot directly on the RVCC golf
-                course! Cart Barn, lnground pool -(plumbed for solar), Cabana, Firepit. Mature Landscaping,
-                Beautiful
-                interior updates!</p>
-        </div>
-        <div class="address-more">
-            <a href="https://skyeflora.johnlscott.com/220195795" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 225 Black Oak Dr Medford  -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 31 Wildwood Dr. -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197215.jpg" alt=" 31 Wildwood Dr. "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/judithfoltz.png " alt="Judith Foltz">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Judith Foltz<br></span> <a href="tel:(541) 774-5613"
-                            class="broker-phone-link">(541) 774-5613</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">31 Wildwood Dr., Eagle Point</div>
-            <div class="price-info">$665,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Custom home built in 2003 w/many updates! 3084sf 4/2.5 w/main floor
-                primary suite, formal living & dining, family room, hardwood floors, solid wood doors & private
-                backyard
-                w/outdoor kitchen, pergola & composite decking. </p>
-        </div>
-        <div class="address-more">
-            <a href="https://judithfoltz.johnlscott.com/220197215" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 31 Wildwood Dr. -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 16445 Meadows Rd -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">HOME FOR SALE </div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197729.jpg" alt=" 16445 Meadows Rd "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/reneespahn.png " alt="Renee Spahn">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Renee Spahn<br></span> <a href="tel:(541) 301-6180"
-                            class="broker-phone-link">(541) 301-6180</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">16445 Meadows Rd, White City</div>
-            <div class="price-info">$765,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">The spacious, updated home features breathtaking views from every
-                room
-                with large picture windows. On the main level, you’ll find everything you need: bedrooms, living
-                spaces,
-                kitchen, laundry, and a full-length covered deck. </p>
-        </div>
-        <div class="address-more">
-            <a href="https://reneespahn.johnlscott.com/220197729" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 16445 Meadows Rd -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 459-465 Savage Creek Road  -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/181/220181052.jpg"
-                alt=" 459-465 Savage Creek Road  " style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/mandysamhammer.png " alt="Mandy Samhammer">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Mandy Samhammer<br></span> <a href="tel:(541) 941-0745"
-                            class="broker-phone-link">(541) 941-0745</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">459-465 Savage Creek Road, Grants&nbsp;Pass</div>
-            <div class="price-info">$790,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text"> Sale includes two separate tax lots, 459 and 465 Savage Creek Road,
-                totaling 2.25 acres — a 1.25-acre lot with a spacious 3-bed, 2-bath home, and an additional 1.0-acre
-                lot
-                next door complete with multiple outbuildings and extra garage/shop space.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://mandysamhammer.johnlscott.com/220181052" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 459-465 Savage Creek Road  -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 107 Monterey Drive -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/198/220198572.jpg" alt=" 107 Monterey Drive "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/kirstend.png " alt="Kirsten Damgaard">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Kirsten Damgaard<br></span> <a href="tel:(541) 899-3299"
-                            class="broker-phone-link">(541) 899-3299</a></p>
-                </div>
-
-
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">107 Monterey Drive, Medford</div>
-            <div class="price-info">$1,375,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Stunning Tuscan View Hm w/4 Beds Plus Ofc, 3 Bath, 5,056 SF, Huge
-                Game
-                Rm/Theater, Saline Pool, 3 Car Gar, Sport Court, Abundance of Natural Light & Storage. Your Oasis.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://kirstend.johnlscott.com/220198572" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 107 Monterey Drive -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 407 Hayes Ave -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 2-4PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/198/220198138.jpg" alt=" 407 Hayes Ave "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-                <!--
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/kevinanderson.png " alt="Kevin Anderson">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Kevin Anderson<br></span> <a href="tel:(541) 951-1660"
-                            class="broker-phone-link">(541) 951-1660</a></p>
-                </div>
--->
-
-<div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/kevinanderson.png "
-    alt="Kevin Anderson"> </div>
-
-<div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/suzannem.png"
-    alt="Suzanne Mihocko"> </div>
-
-<div class="broker-details">
-
-<div class="two-brokers-details-text">
-    <div class="broker-text-left">
-        <p style="line-height: 1;"><span>Kevin Anderson</span></p>
-        <p> <a href="tel:(541) 840-2992" class="broker-phone-link">(541) 951-1660</a></p>
-    </div>
-    <div class="broker-text-right">
-        <p style="line-height: 1;"><span>Suzanne Mihocko</span></p>
-        <p><a href="tel:(541) 538-8815" class="broker-phone-link">
-            (541) 538-8815</a></p>
-    </div>
-
-</div>
-
-
-</div>
-</div>
-        <div class="address-bar">
-            <div class="address-info">407 Hayes Ave, Medford</div>
-            <div class="price-info">$380,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text"> This beautifully maintained home on a private corner lot featuring
-                solar panels that will be paid off at closing, offering major energy savings from day one! Located
-                in a
-                great neighborhood, close to Costco and the North Gate shopping center.
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://kevinanderson.johnlscott.com/220198138" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
-    </div>
-</div>
-<!-- End Address 407 Hayes Ave -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 7818 Phaedra Lane -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE SUNDAY 12-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/198/220198149.jpg" alt=" 7818 Phaedra Lane "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/kyralane.png "
-                    alt="Kyra Lane"> </div>
-
-            <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/bellalane.png "
-                    alt="Bella Lucia Lane"> </div>
-
-            <div class="broker-details">
-
-                <div class="two-brokers-details-text">
-                    <div class="broker-text-left">
-                        <p style="line-height: 1;"><span>Kyra Lane</span></p>
-                        <p> <a href="tel:(541) 930-2371" class="broker-phone-link">(541) 930-2371</a></p>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
+                                class="broker-phone-link">(541) 944-3338</a></p>
                     </div>
-                    <div class="broker-text-right">
-                        <p style="line-height: 1;"><span>Bella Lucia Lane</span></p>
-                        <p><a href="tel:(541) 930-2671" class="broker-phone-link">(541) 930-2671</a></p>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">668 Wagon Trail, Jacksonville</div>
+                <div class="price-info">$1,150,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Stunning contemporary farmhouse w/breathtaking mountain views, just
+                    minutes to downtown Jacksonville, Britt Festival, renowned wineries & more! Set on 10.02 acres, this
+                    gated 4 bed, 3.5 bath home features 2 primary suites & is recognized as a National Firewise USA
+                    site.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://dixieh.johnlscott.com/220197235" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 668 Wagon Trail -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 137 Keystone Way -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/196/220196711-19.jpg" alt=" 137 Keystone Way "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
+                                class="broker-phone-link">(541) 944-3338</a></p>
                     </div>
-
+    
+    
                 </div>
             </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">7818 Phaedra Lane, White City</div>
-            <div class="price-info">$335,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">2020 built! This upgraded, move-in ready home by Lori Magel Homes
-                features a gourmet kitchen, spacious layout, premium master suite, fenced yard, and low-maintenance
-                living—all near schools, parks, and shopping. Comfort and style in a prime location!</p>
-        </div>
-        <div class="address-more">
-            <a href="https://kyralane.johnlscott.com/220198149" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
+            <div class="address-bar">
+                <div class="address-info">137 Keystone Way, Eagle Point</div>
+                <div class="price-info">$569,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Resort-Style living with breathtaking views of Eagle Point’s Robert
+                    Trent Jones Golf Course! This immaculately maintained single-story 3 bed, 2 bath home boasts prime
+                    golf
+                    course frontage and a spacious, beautifully landscaped backyard w/mature, low maintenance greenery
+                    and
+                    water feature.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://dixieh.johnlscott.com/220196711" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
         </div>
     </div>
-</div>
-<!-- End Address 7818 Phaedra Lane -->
+    <!-- End Address 137 Keystone Way -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 521 Sterling Point Dr -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE SUNDAY 2-4PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197655.jpg" alt=" 521 Sterling Point Dr "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/shellyculbertson.png " alt="Dave & Shelly Culbertson">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dave & Shelly Culbertson<br></span> <a href="tel:(541) 941-9559"
+                                class="broker-phone-link">(541) 941-9559</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">521 Sterling Point Dr, Medford</div>
+                <div class="price-info">$535,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Updated throughout! Enjoy smart home features, solar panels, RV pad
+                    with
+                    hookups and a 3-car garage to meet all your storage needs. This home is the perfect blend of modern
+                    upgrades, convenience and outdoor enjoyment.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://shellyculbertson.johnlscott.com/220197655" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 521 Sterling Point Dr -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    
+    
+    <!-- Start Address 321 Snowy Butte Lane -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199712.jpg" alt=" 321 Snowy Butte Lane "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
+                                class="broker-phone-link">(541) 944-3338</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">321 Snowy Butte Lane, Central Point</div>
+                <div class="price-info">$405,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Move-in-Ready single story 3 bed, 2 bath with a spacious living area
+                    including a tray ceiling & gracious bay window, primary suite featuring an updated ensuite &
+                    dedicated
+                    laundry/mud room w/built-in cabinetry. Beautiful, mature landscaping, 2-car garage & gated RV
+                    parking.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://dixieh.johnlscott.com/220199712" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 321 Snowy Butte Lane -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 914 Sellwood Drive -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200159.jpg" alt=" 914 Sellwood Drive "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/logano.png " alt="Logan Odom">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Logan Odom<br></span> <a href="tel:(541) 646-4288"
+                                class="broker-phone-link">(541) 646-4288</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">914 Sellwood Drive, Eagle Point</div>
+                <div class="price-info">$455,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Spacious Eagle Point home on the largest lot in the
+                    neighborhood—features include vaulted ceilings, granite countertops, oversize RV parking, above
+                    ground
+                    pool, fenced yard, Mount McLoughlin views, and a stylish, open layout.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://logano.johnlscott.com/220200159" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 914 Sellwood Drive -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 7591 Wilson Way -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/196/220196265.jpg" alt=" 7591 Wilson Way "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
+                                class="broker-phone-link">(541) 944-3338</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">7591 Wilson Way, White City</div>
+                <div class="price-info">$400,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Don’t miss this single-level 3 bed, 2 bath handicap accessible home
+                    nestled on a peaceful dead-end street. Spacious living & dining w/laminate flooring & soaring
+                    ceilings.
+                    Convenient kitchen, primary suite & a dedicated laundry/mud room. Fully fenced w/low maintenance
+                    landscaping & a 2-car garage. </p>
+            </div>
+            <div class="address-more">
+                <a href="https://dixieh.johnlscott.com/220196265" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 7591 Wilson Way -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 1855 Willow Glen Way -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200117.jpg" alt=" 1855 Willow Glen Way "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/dixieh.png " alt="Dixie Hackstedde">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Dixie Hackstedde<br></span> <a href="tel:(541) 944-3338"
+                                class="broker-phone-link">(541) 944-3338</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">1855 Willow Glen Way, Medford</div>
+                <div class="price-info">$450,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Beautifully maintained single level 3 bed, 2 bath located in a
+                    sought-after East Medford neighborhood. Featuring an expansive living room w/hardwood entry, gourmet
+                    kitchen, open dining area & spacious primary suite. AMAZING, park-like landscaping, 2-car garage &
+                    small
+                    RV area for toys!</p>
+            </div>
+            <div class="address-more">
+                <a href="https://dixieh.johnlscott.com/220200117" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 1855 Willow Glen Way -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 7081 Redthorne Rd. -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 3-5PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197588.jpg" alt=" 7081 Redthorne Rd. "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+                
+    
+                <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/jeaninehealy.png "
+                        alt="Jeanine Healy"> </div>
+    
+                <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/acourson.png"
+                        alt="Amanda Courson"> </div>
+    
+                <div class="broker-details">
+    
+                    <div class="two-brokers-details-text">
+                        <div class="broker-text-left">
+                            <p style="line-height: 1;"><span>Jeanine Healy</span></p>
+                            <p> <a href="tel:(541) 261-4726" class="broker-phone-link">(541) 261-4726</a></p>
+                        </div>
+                        <div class="broker-text-right">
+                            <p style="line-height: 1;"><span>Amanda Courson</span></p>
+                            <p><a href="tel:(949) 335-2913" class="broker-phone-link">(949) 335-2913</a></p>
+                        </div>
+    
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">7081 Redthorne Rd., Rogue River</div>
+                <div class="price-info">$895,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Beautiful gated 3 level acres w/ picturesque year-round pond.
+                    Immaculate
+                    custom home, 2952 sf. Main level primary, 2 frplc, family rm, great rm, dining rm, 4bd, 4 bath, 3
+                    car
+                    gar plus shop & RV garage w/ hook-ups.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://jeaninehealy.johnlscott.com/220197588" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 7081 Redthorne Rd. -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 700 Hueners Lane  -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-4PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/195/220195651-9.jpg" alt=" 700 Hueners Lane  "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/nicollehenderson.png " alt="Nicolle Henderson">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Nicolle Henderson<br></span> <a href="tel:(541) 951-7612"
+                                class="broker-phone-link">(541) 951-7612</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">700 Hueners Lane , Jacksonville</div>
+                <div class="price-info">$440,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Tucked away on a spacious .29-acre lot, this beautifully remodeled
+                    and
+                    move-in ready cottage in Jacksonville is a true find. Stunning kitchen with white cabinetry, quartz
+                    countertops & stainless appliances. Potential for an ADU - buyer to perform due diligence with City.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://nicollehenderson.johnlscott.com/220195651" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 700 Hueners Lane  -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 2833 Rosemont Ave -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/199/220199616.jpg" alt=" 2833 Rosemont Ave "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
+                                class="broker-phone-link">(541) 301-7980</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">2833 Rosemont Ave, Medford</div>
+                <div class="price-info">$470,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Beautifully remodeled home near Asante hospital has 2 Primary
+                    Suites,
+                    in-ground pool, 2 separate common areas, freshly painted decks and lounging areas. Updates include
+                    newly
+                    installed flooring, carpet and all 3 bathrooms. Great for large families, multi-generational living
+                    or
+                    roommates. </p>
+            </div>
+            <div class="address-more">
+                <a href="https://alicelema.johnlscott.com/220199616" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 2833 Rosemont Ave -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 109 Geneva St -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197275.jpg" alt=" 109 Geneva St "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
+                                class="broker-phone-link">(541) 301-7980</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">109 Geneva St, Medford</div>
+                <div class="price-info">$399,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Amazing opportunity to own & restore an original 1911 Craftsman home
+                    on
+                    historic Geneva St. Front porch is perfect for entertaining. Original hardwood floors, 5-panel
+                    doors, &
+                    fenced back yard with carriage house. So much potential in this 2 bed, 2 bath!</p>
+            </div>
+            <div class="address-more">
+                <a href="https://alicelema.johnlscott.com/220197275" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 109 Geneva St -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 130 Candice Ct -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/193/220193338.jpg" alt=" 130 Candice Ct "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
+                                class="broker-phone-link">(541) 301-7980</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">130 Candice Ct, Medford</div>
+                <div class="price-info">$510,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Granite counters, real oak floors, 2 primary suites, in the East
+                    Medford
+                    hills. Split level home has a total of 4 beds, 3 full baths. Back patio with terraced yard. 2 chair
+                    lifts for split level stairs can be removed.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://alicelema.johnlscott.com/220193338" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 130 Candice Ct -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 1055 N 5th St -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200378.jpg" alt=" 1055 N 5th St "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
+                                class="broker-phone-link">(541) 301-7980</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">1055 N 5th St, Jacksonville</div>
+                <div class="price-info">$225,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Move-in ready home with newer floors, double paned windows, and lots
+                    of
+                    extras just blocks from downtown Jacksonville! 2 bedrooms with attached bathrooms and lovely
+                    sunroom/bonus Area. Space rent is $645. Park approval required. Royal Estates is a 55+ park.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://alicelema.johnlscott.com/220200378" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 1055 N 5th St -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 1016 Court St -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/194/220194862.jpg" alt=" 1016 Court St "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
+                                class="broker-phone-link">(541) 301-7980</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">1016 Court St, Medford</div>
+                <div class="price-info">$410,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Nice commercial building 1088sf, updated and remodeled. Currently
+                    the
+                    interior is divided into 6-7 office spaces, one large restroom facility, and 9 parking spaces.
+                    Formal
+                    front entrance plus 2 back entrances. High traffic area with lots of possibilities for signage. </p>
+            </div>
+            <div class="address-more">
+                <a href="https://alicelema.johnlscott.com/220194862" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 1016 Court St -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 395 Rio Nes Ln -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200202.jpg" alt=" 395 Rio Nes Ln "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/alicelema.png " alt="Alice Lema">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Alice Lema<br></span> <a href="tel:(541) 301-7980"
+                                class="broker-phone-link">(541) 301-7980</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">395 Rio Nes Ln, Roseburg</div>
+                <div class="price-info">$1,175,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Custom home with 6,042 SqFt, approx 500 ft of riverfront, unique
+                    architectural features, 2 stall barn/shop, all on 2 tax lots totaling over 24 acres. Home has
+                    spectacular river & mountain views from main living areas, attached in-law apartment and more! </p>
+            </div>
+            <div class="address-more">
+                <a href="https://alicelema.johnlscott.com/220200202" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 395 Rio Nes Ln -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    
+    <!-- Start Address 225 Black Oak Dr Medford  -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/195/220195795.jpg"
+                    alt=" 225 Black Oak Dr Medford  " style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/skyeflora.png " alt="Skye Flora">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Skye Flora<br></span> <a href="tel:(541) 301-6614"
+                                class="broker-phone-link">(541) 301-6614</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">225 Black Oak Dr Medford , Medford</div>
+                <div class="price-info">$790,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Incredible 4 bd 3 ba home on a nearly 1/2 acre lot directly on the RVCC golf
+                    course! Cart Barn, lnground pool -(plumbed for solar), Cabana, Firepit. Mature Landscaping,
+                    Beautiful
+                    interior updates!</p>
+            </div>
+            <div class="address-more">
+                <a href="https://skyeflora.johnlscott.com/220195795" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 225 Black Oak Dr Medford  -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 31 Wildwood Dr. -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197215.jpg" alt=" 31 Wildwood Dr. "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/judithfoltz.png " alt="Judith Foltz">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Judith Foltz<br></span> <a href="tel:(541) 774-5613"
+                                class="broker-phone-link">(541) 774-5613</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">31 Wildwood Dr., Eagle Point</div>
+                <div class="price-info">$665,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Custom home built in 2003 w/many updates! 3084sf 4/2.5 w/main floor
+                    primary suite, formal living & dining, family room, hardwood floors, solid wood doors & private
+                    backyard
+                    w/outdoor kitchen, pergola & composite decking. </p>
+            </div>
+            <div class="address-more">
+                <a href="https://judithfoltz.johnlscott.com/220197215" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 31 Wildwood Dr. -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 16445 Meadows Rd -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">HOME FOR SALE </div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/197/220197729.jpg" alt=" 16445 Meadows Rd "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/reneespahn.png " alt="Renee Spahn">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Renee Spahn<br></span> <a href="tel:(541) 301-6180"
+                                class="broker-phone-link">(541) 301-6180</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">16445 Meadows Rd, White City</div>
+                <div class="price-info">$765,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">The spacious, updated home features breathtaking views from every
+                    room
+                    with large picture windows. On the main level, you’ll find everything you need: bedrooms, living
+                    spaces,
+                    kitchen, laundry, and a full-length covered deck. </p>
+            </div>
+            <div class="address-more">
+                <a href="https://reneespahn.johnlscott.com/220197729" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 16445 Meadows Rd -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 459-465 Savage Creek Road  -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/181/220181052.jpg"
+                    alt=" 459-465 Savage Creek Road  " style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/mandysamhammer.png " alt="Mandy Samhammer">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Mandy Samhammer<br></span> <a href="tel:(541) 941-0745"
+                                class="broker-phone-link">(541) 941-0745</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">459-465 Savage Creek Road, Grants&nbsp;Pass</div>
+                <div class="price-info">$790,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text"> Sale includes two separate tax lots, 459 and 465 Savage Creek Road,
+                    totaling 2.25 acres — a 1.25-acre lot with a spacious 3-bed, 2-bath home, and an additional 1.0-acre
+                    lot
+                    next door complete with multiple outbuildings and extra garage/shop space.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://mandysamhammer.johnlscott.com/220181052" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 459-465 Savage Creek Road  -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 107 Monterey Drive -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/198/220198572.jpg" alt=" 107 Monterey Drive "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/kirstend.png " alt="Kirsten Damgaard">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Kirsten Damgaard<br></span> <a href="tel:(541) 899-3299"
+                                class="broker-phone-link">(541) 899-3299</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">107 Monterey Drive, Medford</div>
+                <div class="price-info">$1,375,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Stunning Tuscan View Hm w/4 Beds Plus Ofc, 3 Bath, 5,056 SF, Huge
+                    Game
+                    Rm/Theater, Saline Pool, 3 Car Gar, Sport Court, Abundance of Natural Light & Storage. Your Oasis.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://kirstend.johnlscott.com/220198572" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 107 Monterey Drive -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 407 Hayes Ave -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 2-4PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/198/220198138.jpg" alt=" 407 Hayes Ave "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                    <!--
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/kevinanderson.png " alt="Kevin Anderson">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Kevin Anderson<br></span> <a href="tel:(541) 951-1660"
+                                class="broker-phone-link">(541) 951-1660</a></p>
+                    </div>
+    -->
+    
+    <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/kevinanderson.png "
+        alt="Kevin Anderson"> </div>
+    
+    <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/suzannem.png"
+        alt="Suzanne Mihocko"> </div>
+    
+    <div class="broker-details">
+    
+    <div class="two-brokers-details-text">
+        <div class="broker-text-left">
+            <p style="line-height: 1;"><span>Kevin Anderson</span></p>
+            <p> <a href="tel:(541) 840-2992" class="broker-phone-link">(541) 951-1660</a></p>
+        </div>
+        <div class="broker-text-right">
+            <p style="line-height: 1;"><span>Suzanne Mihocko</span></p>
+            <p><a href="tel:(541) 538-8815" class="broker-phone-link">
+                (541) 538-8815</a></p>
+        </div>
+    
+    </div>
+    
+    
+    </div>
+    </div>
+            <div class="address-bar">
+                <div class="address-info">407 Hayes Ave, Medford</div>
+                <div class="price-info">$380,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text"> This beautifully maintained home on a private corner lot featuring
+                    solar panels that will be paid off at closing, offering major energy savings from day one! Located
+                    in a
+                    great neighborhood, close to Costco and the North Gate shopping center.
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://kevinanderson.johnlscott.com/220198138" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 407 Hayes Ave -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 7818 Phaedra Lane -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE SUNDAY 12-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/198/220198149.jpg" alt=" 7818 Phaedra Lane "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/kyralane.png "
+                        alt="Kyra Lane"> </div>
+    
+                <div class="broker-image-right"> <img src="https://assets.jlscloud.net/account/bellalane.png "
+                        alt="Bella Lucia Lane"> </div>
+    
+                <div class="broker-details">
+    
+                    <div class="two-brokers-details-text">
+                        <div class="broker-text-left">
+                            <p style="line-height: 1;"><span>Kyra Lane</span></p>
+                            <p> <a href="tel:(541) 930-2371" class="broker-phone-link">(541) 930-2371</a></p>
+                        </div>
+                        <div class="broker-text-right">
+                            <p style="line-height: 1;"><span>Bella Lucia Lane</span></p>
+                            <p><a href="tel:(541) 930-2671" class="broker-phone-link">(541) 930-2671</a></p>
+                        </div>
+    
+                    </div>
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">7818 Phaedra Lane, White City</div>
+                <div class="price-info">$335,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">2020 built! This upgraded, move-in ready home by Lori Magel Homes
+                    features a gourmet kitchen, spacious layout, premium master suite, fenced yard, and low-maintenance
+                    living—all near schools, parks, and shopping. Comfort and style in a prime location!</p>
+            </div>
+            <div class="address-more">
+                <a href="https://kyralane.johnlscott.com/220198149" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 7818 Phaedra Lane -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 507 Westminster -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/194/220194949-5.jpg" alt=" 507 Westminster "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+    
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/karikuykendall.png " alt="Kari Kuykendall">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>Kari Kuykendall<br></span> <a href="tel:(541) 890-7764"
+                                class="broker-phone-link">(541) 890-7764</a></p>
+                    </div>
+    
+    
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">507 Westminster, Eagle Point</div>
+                <div class="price-info">$415,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Light and Bright, with a brand-new roof and windows, this
+                    well-cared-for
+                    1,603 sq ft home offers 3 spacious bedrooms, 2 full bathrooms, large, covered patio, beautifully
+                    landscaped & a 2-car garage with ample storage. Desirable neighborhood.</p>
+            </div>
+            <div class="address-more">
+                <a href="https://karikuykendall.johnlscott.com/220194949" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 507 Westminster -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
+    
+    <!-- Start Address 1995 Woodside Dr -->
+    <div class="grid-item">
+        <div class="address">
+            <div class="address-header">OPEN HOUSE Sunday 1-4PM</div>
+            <div class="address-image">
+                <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200747.jpg" alt=" 1995 Woodside Dr "
+                    style="width: 100%; height: 100%; object-fit: cover;">
+                <div class="broker-image">
+                    <img src=" https://assets.jlscloud.net/account/jjkramer.png " alt="JJ Kramer">
+                </div>
+                <div class="broker-details">
+                    <div class="broker-details-text">
+                        <p style="margin: 0;"><span>JJ Kramer<br></span> <a href="tel:(541) 840-2992"
+                                class="broker-phone-link">(541) 840-2992</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="address-bar">
+                <div class="address-info">1995 Woodside Dr, Medford</div>
+                <div class="price-info">$485,000</div>
+            </div>
+            <div class="address-description">
+                <p class="address-description-text">Immaculate single-level home in desirable South Medford features
+                    vaulted
+                    ceilings, upgraded kitchen, split floorplan with spacious bedrooms, & luxurious primary suite with
+                    remodeled bath. Enjoy a landscaped yard, newer flooring and HVAC, plus a 50-year roof with
+                    transferable
+                    warranty. A must-see!
+    
+                </p>
+            </div>
+            <div class="address-more">
+                <a href="https://jjkramer.johnlscott.com/220200747" target="_blank" rel="noopener noreferrer"
+                    class="address-more-link">Click here to view more</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Address 1995 Woods -->
+    
+    <!--------------------------------------------------------------------------------------------------------------------------->
 
-<!--------------------------------------------------------------------------------------------------------------------------->
+    <!-- Start Address 1541 Cypress Point Dr. -->
+  <div class="grid-item">
+    <div class="address">
+      <div class="address-header">OPEN HOUSE 11-1PM</div>
+      <div class="address-image">
+        <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200877.jpg" alt=" 1541 Cypress Point Dr. " style="width: 100%; height: 100%; object-fit: cover;">
+  
+   <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/jjkramer.png "
+                      alt="JJ Kramer"> </div>
+  
+   <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/brookerichmond.png "
+                      alt="Brooke Richmond"> </div> 
+  
+        <div class="broker-details">
+          
+           <div class="two-brokers-details-text">
+  <div class="broker-text-left">
+                      <p style="line-height: 1;"><span>JJ Kramer</span></p>
+  <p> <a  href="tel:(541) 840-2992" class="broker-phone-link">(541) 840-2992</a></p>
+  </div>
+  <div class="broker-text-right">
+   <p style="line-height: 1;"><span>Brooke Richmond</span></p> 
+  <p><a href="tel:(707) 320-7067" class="broker-phone-link">(707) 320-7067</a></p>
+  </div>
+  
+        </div>
+  </div>
+  </div>
+  <div class="address-bar">
+        <div class="address-info">1541 Cypress Point Dr., Medford</div>
+        <div class="price-info">$519,000</div>
+      </div>
+    <div class="address-description">
+      <p class="address-description-text">Immaculate single-level home in East Medford’s Eagle Trace with stunning views, privacy, and upgrades throughout. Features include double living areas, gourmet kitchen, luxurious primary suite, new carpet, and beautifully landscaped yards. Finished oversized garage. A must-see in a premier neighborhood!</p>
+    </div>
+    <div class="address-more">
+      <a href="https://jjkramer.johnlscott.com/220200877" target="_blank" rel="noopener noreferrer" class="address-more-link">Click here to view more</a>
+    </div>
+  </div>
+  </div>
+  <!-- End Address 1541 Cypress Point Dr. -->
+  
+  
+      <!--------------------------------------------------------------------------------------------------------------------------->
 
-<!-- Start Address 507 Westminster -->
+
+<!-- Start Address 450 Wiley St -->
 <div class="grid-item">
     <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/194/220194949-5.jpg" alt=" 507 Westminster "
-                style="width: 100%; height: 100%; object-fit: cover;">
-
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/karikuykendall.png " alt="Kari Kuykendall">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>Kari Kuykendall<br></span> <a href="tel:(541) 890-7764"
-                            class="broker-phone-link">(541) 890-7764</a></p>
-                </div>
-
-
-            </div>
+      <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+      <div class="address-image">
+        <img src="https://assets.jlscontent.com/photos/orsomls/220/195/220195316.jpg" alt=" 450 Wiley St " style="width: 100%; height: 100%; object-fit: cover;">
+        <div class="broker-image">
+          <img src=" https://assets.jlscloud.net/account/dannagibson.png " alt="Danna Gibson">
         </div>
-        <div class="address-bar">
-            <div class="address-info">507 Westminster, Eagle Point</div>
-            <div class="price-info">$415,000</div>
+        <div class="broker-details">
+          <div class="broker-details-text">
+            <p style="margin: 0;"><span>Danna Gibson<br></span> <a href="tel:(551) 708-1343" class="broker-phone-link">(551) 708-1343</a></p>
         </div>
-        <div class="address-description">
-            <p class="address-description-text">Light and Bright, with a brand-new roof and windows, this
-                well-cared-for
-                1,603 sq ft home offers 3 spacious bedrooms, 2 full bathrooms, large, covered patio, beautifully
-                landscaped & a 2-car garage with ample storage. Desirable neighborhood.</p>
-        </div>
-        <div class="address-more">
-            <a href="https://karikuykendall.johnlscott.com/220194949" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
+  </div>
+  </div>
+  <div class="address-bar">
+        <div class="address-info">450 Wiley St, Ashland</div>
+        <div class="price-info">$699,000</div>
+      </div>
+    <div class="address-description">
+      <p class="address-description-text">Extraordinary views! Recent updates include a remodeled kitchen equipped with high end appliances. Acacia  hardwood floors through much of the home, quartzite countertops and fresh paint are a few of the highlights. Seamless flow between indoor & outdoor living</p>
     </div>
-</div>
-<!-- End Address 507 Westminster -->
-
-<!--------------------------------------------------------------------------------------------------------------------------->
-
-<!-- Start Address 1995 Woodside Dr -->
-<div class="grid-item">
-    <div class="address">
-        <div class="address-header">OPEN HOUSE Sunday 1-4PM</div>
-        <div class="address-image">
-            <img src="https://assets.jlscontent.com/photos/orsomls/220/200/220200747.jpg" alt=" 1995 Woodside Dr "
-                style="width: 100%; height: 100%; object-fit: cover;">
-            <div class="broker-image">
-                <img src=" https://assets.jlscloud.net/account/jjkramer.png " alt="JJ Kramer">
-            </div>
-            <div class="broker-details">
-                <div class="broker-details-text">
-                    <p style="margin: 0;"><span>JJ Kramer<br></span> <a href="tel:(541) 840-2992"
-                            class="broker-phone-link">(541) 840-2992</a></p>
-                </div>
-            </div>
-        </div>
-        <div class="address-bar">
-            <div class="address-info">1995 Woodside Dr, Medford</div>
-            <div class="price-info">$485,000</div>
-        </div>
-        <div class="address-description">
-            <p class="address-description-text">Immaculate single-level home in desirable South Medford features
-                vaulted
-                ceilings, upgraded kitchen, split floorplan with spacious bedrooms, & luxurious primary suite with
-                remodeled bath. Enjoy a landscaped yard, newer flooring and HVAC, plus a 50-year roof with
-                transferable
-                warranty. A must-see!
-
-            </p>
-        </div>
-        <div class="address-more">
-            <a href="https://jjkramer.johnlscott.com/220200747" target="_blank" rel="noopener noreferrer"
-                class="address-more-link">Click here to view more</a>
-        </div>
+    <div class="address-more">
+      <a href="https://dannagibson.johnlscott.com/220195316" target="_blank" rel="noopener noreferrer" class="address-more-link">Click here to view more</a>
     </div>
-</div>
-<!-- End Address 1995 Woods -->
+  </div>
+  </div>
+  <!-- End Address 450 Wiley St -->
+  
+  
 
-<!--------------------------------------------------------------------------------------------------------------------------->
 
+          <!--------------------------------------------------------------------------------------------------------------------------->
 
-
-</body>
+    
+    </div>
