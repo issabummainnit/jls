@@ -1,0 +1,635 @@
+
+
+<div class="wrapper">
+    <div class="video-container"><video playsinline autoplay muted loop>
+               <source
+                   src="https://www.dropbox.com/scl/fi/eyi00tcg7bdii79rbm2pv/Rowe-Team-786-Pompadour-Drive-Masthead.mp4?rlkey=hgu4ocyogqq6pbel0ovrcz2j2&raw=1"
+                   type="video/mp4" loading="lazy">Your browser does not support the video tag.
+           </video></div>
+   
+   <!--
+       <div class="headshot-container fade-1">
+           <img src="https://jls-documents-prod.s3.amazonaws.com/public/users/300001800-8599b928/Website%20Build%202025/JJ-Kramer-headshot-1.png"
+               alt="Jordan "JJ" Kramer, Real Estate Agent">
+       </div>
+   
+   -->
+   
+       <div class="logo-container fade-1">
+         <h1 class="hero" style="color: var(--white);">JJ KRAMER</h1>
+   <h2 style="color: var(--white);"><strong><sub>#</sub>1 Ranked Agent in Southern Oregon</strong></h2>
+   <p style="color: var(--white);"><em> By Closed Sides & Volume in 2024</em></p>
+       </div>
+   
+   
+       <div class="search-bar-container fade-2" style="text-transform: uppercase; min-height: 100%;">
+   
+           <div class="home-search-bar">
+               <div class="toggle-search-bar-container">
+   
+                   <!--UPDATE BUYSIDE USERNAME AND PASSWORD BEFORE PUBLISHING-->
+   
+                   <label class="switch">
+                       <input type="checkbox" checked>
+                       <span class="slider"></span>
+                       <span class="labels" data-on="Sell" data-off="Buy"></span>
+                   </label>
+   
+                   <div class="search-bars-wrapper">
+                       <div id="home-valuation">
+                           <div id="buyside">
+                               <div id="buyside-widget-container"></div>
+                               <script src="//api.buyermls.com/widget/buyside-widget-v31.js"></script>
+                               <script>
+                                   buyside_widget({ widgetContainerId: "buyside-widget-container", key: "1557367283727684", userName:"300001800", submitBtnValue: "GO" });
+                               </script>
+                           </div>
+                       </div>
+   
+                       <div id="property-search">
+                           <div class="container-fluid ">
+   
+                               <div id="search-field-heading" class="col-md-12">
+                               </div>
+                               <div class="jls-quick-search col-md-12">
+                                   <div class="input-group"><input id="jls-search-input"
+                                           class="jls-search-input form-control"
+                                           aria-label="City, Address, School, ZIP, MLS# or JLS#"
+                                           placeholder="City, Address, School, ZIP, MLS# or JLS#" role="textbox"
+                                           type="text" data-default="False" data-include-brokers="False"
+                                           data-include-listings="True" data-include-offices="False"
+                                           data-include-places="True" data-include-schools="True" data-within=""
+                                           data-include-button="True" autocomplete="off" autofocus="autofocus"><i
+                                           class="jls-search-toggle fa fa-lg fa-times"></i><span
+                                           class="input-group-btn"><button
+                                               class="jls-search-button btn btn-success text-center" aria-label="Search"
+                                               type="button"><i class="fa fa-lg fa-search"></i></button></span></div>
+                               </div>
+                           </div>
+                       </div>
+   
+                       <script>$(document).ready(function () {
+                               jls.events.subscribe(jls.topics.autocompleteGoSearch, function (data) {
+                                   if (data.url) {
+                                       window.location.href = data.url;
+                                   }
+                               });
+                           });
+   
+                       </script>
+   
+                       <script>
+                           let mainContent = document.querySelector('#property-search');
+                           let secondaryContent = document.querySelector('#home-valuation');
+   
+                           document.querySelector('.switch input').addEventListener('change', e => {
+                               mainContent.style.display = e.target.checked ? 'block' : 'none';
+                               secondaryContent.style.display = e.target.checked ? 'none' : 'block';
+                           });
+                       </script>
+   
+                       <style>
+                           .toggle-search-bar-container {
+                               width: 100%;
+                               /*margin-left: 75px;*/
+                               justify-content: center;
+                               align-items: center;
+                               position: relative;
+                               z-index: 100;
+                               top: 0;
+   
+                           }
+   
+                           /*Buyside Search Button Styling*/
+   
+                           button#buyside_widget_submit_id {
+                               border-radius: 4px !important;
+                               border: 0 !important;
+                               background: var(--brand-color-1) !important;
+                               color: var(--white) !important;
+                               width: 50px !important;
+                               left: 8px !important;
+                               height: 50px !important;
+                           }
+   
+                           button#buyside_widget_submit_id:hover {
+                               background: var(--brand-color-1-hover) !important;
+                           }
+   
+                           /*Buyside Search Bar Styling*/
+                           #buyside-widget-container {
+                               margin: 0 !important;
+                               padding: 0 !important;
+                               width: 100% !important;
+                           }
+   
+                           #buyside {
+                               width: 100% !important;
+                               /*Changes width of Buyside Search Group*/
+                               border: none !important;
+                               border-radius: 4px !important;
+                               text-align: center !important;
+                               margin-right: auto !important;
+                               margin-left: auto !important;
+                               padding-right: 0 !important;
+                               padding-left: 0 !important;
+                           }
+   
+                           input#buyside-widget-containerinputId {
+                               right: 8px !important;
+                               padding: 10px !important;
+                               color: var(--black) !important;
+                               height: 50px !important;
+                               border: 1px solid var(--brand-color-1) !important;
+                               border-radius: 8px !important;
+                               font-size: 16px;
+                               border: 2px solid var(--white) !important;
+                               text-indent: 24px;
+                           }
+   
+                           .buyside_widget_autocomplete-items div {
+                               padding: 6px;
+                               font-size: 20px;
+                               color: var(--black);
+                           }
+   
+                           .buyside_widget_input_div {
+                               padding-right: 0 !important;
+                           }
+   
+                           /*Search Heading Styling*/
+   
+                           /*  .jls-search-heading {
+                       margin-bottom: 4rem;
+                       margin-top: 80px;
+                       font-size: 4rem;
+                       font-family: var(--header-font);
+                       color: white;
+                       font-weight: 300;
+                       text-transform: uppercase;
+                       text-align: center;
+                   } */
+   
+   
+                           /*Home Search Search Button Styling*/
+   
+                           .input-group .form-control:last-child,
+                           .input-group-addon:last-child,
+                           .input-group-btn:first-child>.btn-group:not(:first-child)>.btn,
+                           .input-group-btn:first-child>.btn:not(:first-child),
+                           .input-group-btn:last-child>.btn,
+                           .input-group-btn:last-child>.btn-group>.btn,
+                           .input-group-btn:last-child>.dropdown-toggle {
+                               border-top-left-radius: 4px;
+                               border-bottom-left-radius: 4px;
+                               left: 0px;
+                               width: 50px;
+                               height: 50px;
+                               background-color: var(--white);
+                               color: var(--white);
+                               outline: none;
+                               box-shadow: none;
+                           }
+   
+   
+   
+                           
+   
+                           .jls-search-button.btn-success {
+                               border-radius: 4px;
+                               border: none;
+                               outline: none;
+                               display: inline-block;
+                               position: relative;
+                               background-color: var(--brand-color-1) !important;
+                               transition: background-color .25s cubic-bezier(0.165, 0.84, 0.44, 1);
+                           }
+   
+                           .jls-search-button.btn-success:hover {
+                               background: var(--brand-color-1-hover) !important;
+                               outline: none;
+                           }
+   
+                           .jls-search-button.btn-success:focus {
+                               background-color: var(--brand-color-1-hover) !important;
+                           }
+   
+                           .input-group-btn {
+                               position: relative;
+                               font-size: 0;
+                               white-space: nowrap;
+                               left: 8px;
+                               /*overflow: scroll;*/
+                           }
+   
+                           /*Home Search Search Bar Styling*/
+   
+                           .input-group .form-control:first-child,
+                           .input-group-addon:first-child,
+                           .input-group-btn:first-child>.btn,
+                           .input-group-btn:first-child>.btn-group>.btn,
+                           .input-group-btn:first-child>.dropdown-toggle,
+                           .input-group-btn:last-child>.btn-group:not(:last-child)>.btn,
+                           .input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle) {
+                               border-radius: 8px;
+                               background-color: var(--white);
+                               border: 2px solid var(--white);
+                               height: 50px;
+                           }
+   
+   
+                           /* 
+                       input#jls-search-input.jls-search-input.form-control:focus {
+                           outline: none;
+                           border: 2px solid #444;
+                           box-shadow: none;
+                       }
+   
+    */
+   
+                           input#jls-search-input.jls-search-input {
+                               outline: none;
+                               border: 2px solid var(--white);
+                               box-shadow: none;
+                               background: #fff;
+                           }
+   
+                           .jls-quick-search .input-group {
+                               width: 100%;
+                               /*Changes Width of Property Search Group*/
+                               margin-right: auto;
+                               margin-left: auto;
+                           }
+   
+                           .jls-quick-search {
+                               padding: 0;
+                           }
+   
+                           .autocomplete-group {
+                               padding: 4px 10px;
+                               font-family: var(--body-font);
+                                font-weight: 500;
+                               /* color: var(--black) */
+                           }
+   
+                           .autocomplete-suggestions strong {
+                               font-weight: 500;
+                               color: var(--black);
+                           }
+   
+                           .autocomplete-suggestions {
+                               font-size: 20px;
+                               border-radius: 10px;
+                               border: 2px solid var(--white);
+                               border-top: none;
+                               border-top-left-radius: 0px;
+                               border-top-right-radius: 0px;
+                           }
+   
+                           .autocomplete-suggestion {
+                               padding: 4px 8px;
+                           }
+   
+                           .autocomplete-group strong {
+                               border-bottom: 2px solid var(--brand-color-3)
+                           }
+   
+                           .autocomplete-suggestion div img {
+                               filter: brightness(0);
+                           }
+   
+   
+   
+                           /**/
+   
+                           .search-bars-wrapper {
+                               margin-right: auto;
+                               margin-left: auto;
+                               position: relative;
+                               text-align: center;
+                               margin-top: 0;
+                               color: var(--white);
+                           }
+   
+                           /*Toggle Labels*/
+   
+                           .switch .labels {
+                               position: absolute;
+                               top: 8px;
+                               left: 0px;
+                               width: 100%;
+                               height: 100%;
+                               color: var(--white);
+                               font-size: 24px;
+   
+                               font-weight: 700;
+                               text-align: left;
+                               transform: scale(-1, 1);
+                           }
+   
+                           .switch .labels::after {
+                               content: attr(data-off);
+                               position: absolute;
+                               left: 12%;
+                               opacity: 1;
+   
+                           }
+   
+                           .switch .labels::before {
+                               content: attr(data-on);
+                               position: absolute;
+                               right: 10px;
+                               opacity: 1;
+      
+                           }
+   
+                           .switch input:checked~.labels::after {
+                               opacity: 1;
+    
+                           }
+   
+                           .switch input:checked~.labels::before {
+                               opacity: 1;
+   
+                           }
+   
+                           /* The switch - the box around the slider */
+   
+                           .switch {
+                               cursor: pointer;
+                               position: relative;
+                               display: inline-block;
+                               margin-right: auto;
+                               margin-left: auto;
+                               margin-bottom: 20px;
+                               width: 150px;
+                               height: 56px;
+                               top: 0;
+                               transform: scale(-1, 1);
+                               border-radius: 16px;
+                           }
+   
+                           .switch input {
+                               opacity: 0;
+                               width: 0;
+                               height: 0;
+                           }
+   
+   
+                           /* The slider */
+   
+                           .slider {
+                               position: absolute;
+                               cursor: pointer;
+                               top: 0;
+                               left: 0;
+                               right: 0;
+                               bottom: 0;
+                               background-color: transparent;
+   
+                               border: 2px solid transparent;
+                               -webkit-transition: .4s;
+                               transition: .4s;
+                               border-radius: 14px;
+                           }
+   
+                           .slider:before {
+                               position: absolute;
+                               content: "";
+                               height: 52px;
+                               width: 49%;
+                               left: 0px;
+                               bottom: 4px;
+                               border: 2px solid var(--brand-color-1);
+                               background: var(--brand-color-1);
+                               -webkit-transition: .4s;
+                               transition: .4s;
+                               border-radius: 11px;
+                           }
+   
+   
+                           input:checked+.slider:before {
+                               -webkit-transform: translateX(100%);
+                               -ms-transform: translateX(100%);
+                               transform: translateX(100%);
+                           }
+   
+                           #home-valuation {
+                               display: none;
+                           }
+   
+                           .buyside_widget_autocomplete-items {
+                               border: 2px solid var(--white);
+                               border-bottom: 2px solid var(--white);
+                               border-top: none;
+                               padding-left: 8px;
+                               border-bottom-left-radius: 10px;
+                               border-bottom-right-radius: 10px;
+                               padding-right: 8px;
+                               z-index: 99;
+                               top: 100%;
+                               left: 0;
+                               right: 0;
+                               background-color: var(--white);
+                               max-height: 35vh;
+                               overflow-y: auto;
+                               text-align: left;
+                           }
+   
+                           .jls-cell-1 .container-fluid {
+                               padding: 0;
+                           }
+   
+                           .search-bar-heading {
+                               color: var(--white);
+                           }
+   
+   
+                           @media screen and (max-width: 800px) {
+                               .search-bars-wrapper {
+                                   width: 100%;
+                                   margin: 0;
+                               }
+   
+                           }
+                       </style>
+                   </div>
+   
+               </div>
+           </div>
+   
+   
+   
+           <style type="text/css">
+               .mobileShow {
+                   display: none;
+               }
+   
+               /* Smartphone Portrait and Landscape */
+               @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+                   .mobileShow {
+                       display: block;
+                       margin: 50px auto;
+                       grid-column: 2 / 3;
+                       grid-row: 4 / 5;
+                       z-index: 8;
+                   }
+               }
+           </style>
+   
+       </div>
+   
+   
+   
+   </div>
+   
+   
+   
+   <style>
+       .jls-cell-1 {
+           background: var(--dark-gradient),
+               var(--brand-photo-background-1) no-repeat;
+           background-size: cover;
+           background-position: 50% 50%;
+           padding: 0;
+           height: 90vh;
+       }
+   
+       .jls-cell-1 .jls-btn-2 {
+           width: 100%;
+   
+       }
+   
+   
+       @media (min-device-width: 1025px) {
+           .jls-cell-1 {
+               background-attachment: fixed;
+           }
+       }
+   
+   
+       .jls-cell-1 .wrapper {
+           display: grid;
+           grid-template-columns: repeat(6, minmax(14%, auto));
+           grid-template-rows: repeat(4, minmax(30px, auto));
+           column-gap: 15px;
+           row-gap: 15px;
+           z-index: 0;
+   
+       }
+
+       .jls-cell-1 .video-container {
+        grid-column: 1 / 6;
+        grid-row: 1 / 5;
+        z-index: 1;
+    }
+   
+   
+       .jls-cell-1 .headshot-container {
+           grid-column: 1 / 3;
+           grid-row: 1 / 5;
+       align-self: end;
+       }
+   
+       .jls-cell-1 .headshot-container img {
+           float: left;
+           padding: 10px 20px 0 0;
+           max-height: 35vw;
+       }
+   
+       .jls-cell-1 .logo-container {
+           grid-column: 3 / 5;
+           grid-row: 2 / 3;
+           contain: content;
+   text-align: center;
+       }
+   
+       .jls-cell-1 .logo-container img {
+           position: relative;
+           bottom: 0;
+           left: 50%;
+           transform: translateX(-50%);
+           max-width: 65%;
+           height: auto;
+           margin: 0 0 3rem 0;
+           filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.4));
+   
+       }
+   
+   .absolute-image {
+   width: clamp(200px, 5vw + 1px, 250px);
+       float: right;
+       position: absolute;
+       index: 2;
+       right: 0;
+       padding: 20px 20px 0 0;
+   }
+   
+       .jls-cell-1 .search-bar-container {
+           text-align: center;
+           grid-column: 3 / 5;
+           grid-row: 3 / 4;
+       }
+   
+   
+       @media (max-width: 1040px) {
+   
+           .jls-cell-1 .wrapper {
+               display: grid;
+               grid-template-columns: repeat(6, minmax(14%, auto));
+               grid-template-rows: repeat(4, minmax(30px, auto));
+               column-gap: 5px;
+               row-gap: 5px;
+               z-index: 0;
+           }
+   
+           .jls-cell-1 .headshot-container {
+           grid-column: 1 / 5;
+           grid-row: 4 / 5;
+       }
+   
+       .jls-cell-1 .headshot-container img {
+           float: left;
+           padding: 10px 0 0 0;
+           max-height: 90vw;
+       }
+   
+       .jls-cell-1 .logo-container {
+           grid-column: 1 / 7;
+           grid-row: 2 / 3;
+           contain: content;
+           padding: 0 4vw;
+   text-align: center;
+       }
+   
+       .jls-cell-1 .logo-container img {
+           position: relative;
+           bottom: 0;
+           left: 50%;
+           transform: translateX(-50%);
+           max-width: 50%;
+           height: auto;
+           margin: 0 0 3rem 0;
+           filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.4));
+   
+       }
+   
+       .jls-cell-1 .search-bar-container {
+           text-align: center;
+           grid-column: 1 / 7;
+           grid-row: 3 / 4;
+   padding: 0 5vw 0 4vw;
+       }
+   
+   
+   .absolute-image {
+   width: clamp(100px, 5vw + 1px, 150px);
+       float: right;
+       position: absolute;
+       right: 0;
+   bottom: 0;
+       padding: 0 10px 10px 0;
+   }
+   
+       }
+   </style>
