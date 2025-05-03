@@ -1,15 +1,26 @@
 <div class="wrapper">
 
-   
+    <div class="video-overlay" style="background: var(--dark-gradient); width: 100%; height: 100%;"></div>
     <div class="video-container">
-
         <video playsinline autoplay muted loop>
             <source
-                src="https://jlsso.github.io/agents/JJ%20Kramer/videos/Table-Rock.mp4"
-                type="video/mp4" loading="lazy" >Your browser does not support the video tag.
+                src="https://www.dropbox.com/scl/fi/eyi00tcg7bdii79rbm2pv/Rowe-Team-786-Pompadour-Drive-Masthead.mp4?rlkey=hgu4ocyogqq6pbel0ovrcz2j2&raw=1"
+                type="video/mp4" loading="lazy">Your browser does not support the video tag.
         </video>
     </div>
- <div class="video-overlay" style="background: var(--dark-gradient); width: 100%; height: 100%;"></div>
+
+    https://jlsso.github.io/agents/JJ%20Kramer/videos/Table-Rock.mp4
+    https://www.dropbox.com/scl/fi/dcj29tueorj1dxqqk8b9o/Table-Rock.mp4?rlkey=zu39a3q2h2fmw5spw3gb10k39&raw=1
+
+    <div class="video-container">
+        <video playsinline autoplay muted loop>
+            <source
+                src="Table-Rock"
+                type="video/mp4" loading="lazy">Your browser does not support the video tag.
+        </video>
+    </div>
+
+
     <!--
        <div class="headshot-container fade-1">
            <img src="https://jls-documents-prod.s3.amazonaws.com/public/users/300001800-8599b928/Website%20Build%202025/JJ-Kramer-headshot-1.png"
@@ -20,7 +31,7 @@
 
     <div class="logo-container fade-1">
         <h1 class="hero" style="color: var(--white);">JJ KRAMER</h1>
-        <h2 style="color: var(--white);"><sub>#</sub>1 Ranked Agent in Southern&nbsp;Oregon</h2>
+        <h2 style="color: var(--white);"><strong><sub>#</sub>1 Ranked Agent in Southern Oregon</strong></h2>
         <p style="color: var(--white);"><em> By Closed Sides & Volume in 2024</em></p>
     </div>
 
@@ -513,12 +524,13 @@
 
     .jls-cell-1 .wrapper {
         display: grid;
-    grid-template-columns: repeat(6, minmax(14%, auto));
-    grid-template-rows: clamp(150px, 22vh + 1px, 600px) auto;
-    column-gap: 15px;
-    row-gap: 15px;
-    z-index: 0;
-    height: clamp(700px, 80vh + 1px, 2500px);
+        grid-template-columns: repeat(6, minmax(14%, auto));
+        grid-template-rows: repeat(4, minmax(30px, auto));
+        column-gap: 15px;
+        row-gap: 15px;
+        z-index: 0;
+        height: 90vh;
+
     }
 
     .jls-cell-1 .video-container, .jls-cell-1 .video-overlay {
@@ -526,11 +538,6 @@
         grid-row: 1 / 5;
         z-index: 0;
     }
-
-.jls-cell-1 video {
-min-height: -webkit-fill-available !important;
-min-width: -webkit-fill-available !important;
-}
 
     
 
@@ -548,7 +555,7 @@ min-width: -webkit-fill-available !important;
     }
 
     .jls-cell-1 .logo-container {
-        grid-column: 2 / 6;
+        grid-column: 3 / 5;
         grid-row: 2 / 3;
         contain: content;
         text-align: center;
@@ -577,7 +584,7 @@ min-width: -webkit-fill-available !important;
 
     .jls-cell-1 .search-bar-container {
         text-align: center;
-        grid-column: 2 / 6;
+        grid-column: 3 / 5;
         grid-row: 3 / 4;
     }
 

@@ -6,33 +6,37 @@
     </figure>
     <br>
 
-    <div style="margin: 25px 0;">
-    <div style="width: 37%; float: left; padding-right: 3%; text-align: center;">
-        <h2> AGE CATEGORIES </h2>
-        <hr>
-        <h3>4 - 7 <br>
-            8 - 12 <br>
-            13 - 18 <br>
-        </h3>
-        <br><br>
-    </div>
-
-
-    <div style="width: 57%; float: left; padding-left: 3%;">
-        <p>
-            <strong>RULES:</strong> Upload a photo of your finished coloring sheet to <a
-                href="https://johnlscottfoundation.org/contest/">johnlscottfoundation.org/contest</a>.
-            Entries must be submitted by <strong>Saturday, May 31 at 11:59 pm.</strong> Submissions must be entered by a
-            parent/guardian 18 years or older. One entry per person. Use crayons, colored pencils, or markers only. Must
-            be original artwork.
+    <div style="margin: 25px 0; display: block;">
+        <div class="age">
+            <h2> AGE CATEGORIES </h2>
+            <hr>
+            <h3>4 - 7 <br>
+                8 - 12 <br>
+                13 - 18 <br>
+            </h3>
             <br><br>
-            <strong>PRIZE:</strong> One prize ($100 Amazon gift card) will be awarded in each age category. Winners will
-            be announced on the John L. Scott Foundation social media pages on Wednesday, June 4. We will contact the
-            parent/guardian of each winner.
-        </p>
-    </div>
+        </div>
 
-</div>
+
+        <div class="info">
+            <p>
+                <strong>RULES:</strong> Upload a photo of your finished coloring sheet to <a
+                    href="https://johnlscottfoundation.org/contest/">johnlscottfoundation.org/contest</a>.
+                Entries must be submitted by <strong>Saturday, May 31 at 11:59 pm.</strong> Submissions must be entered
+                by a
+                parent/guardian 18 years or older. One entry per person. Use crayons, colored pencils, or markers only.
+                Must
+                be original artwork.
+                <br><br>
+                <strong>PRIZE:</strong> One prize ($100 Amazon gift card) will be awarded in each age category. Winners
+                will
+                be announced on the John L. Scott Foundation social media pages on Wednesday, June 4. We will contact
+                the
+                parent/guardian of each winner.
+            </p>
+        </div>
+
+    </div>
 
     <div style="margin: 25px 0;">
         <h2 style="text-align: center; color: var(--brand-color-2);">WINNERS ANNOUNCED WEDNESDAY, JUNE 4</h2>
@@ -62,5 +66,40 @@
     .jls-cell-1 .container {
         max-width: 1280px;
         margin: 40px auto;
+        display: grid;
+    }
+
+    .jls-cell-1 .age {
+        width: 37%;
+        float: left;
+        padding-right: 3%;
+        text-align: center;
+    }
+
+    .jls-cell-1 .info {
+        width: 57%;
+        float: left;
+        padding-left: 3%;
+
+    }
+
+    @media (max-width: 840px) {
+        .jls-cell-1 {
+            padding: 3%;
+        }
+
+        .jls-cell-1 .age {
+            width: 100%;
+            float: none;
+            padding-right: 0;
+        }
+
+        .jls-cell-1 .info {
+            width: 100%;
+            float: none;
+            padding-left: 0;
+        }
+
+
     }
 </style>
