@@ -25,7 +25,7 @@
                             <p style="line-height: 1;"><span>Bryn Knight</span></p>
                             <p><a href="tel:(458) 229-3050" class="broker-phone-link">(458) 229-3050</a></p>
                         </div>
-
+    
                     </div>
                 </div>
             </div>
@@ -595,7 +595,7 @@
             </div>
             <div class="address-bar">
                 <div class="address-info">2485 Terri Drive, Medford</div>
-                <div class="price-info">$1,450,000</div>
+                <div class="price-info">$1,350,000</div>
             </div>
             <div class="address-description">
                 <p class="address-description-text">Gorgeous, contemporary estate w/unsurpassed views of the valley,
@@ -1686,7 +1686,7 @@
     <div class="address">
       <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
       <div class="address-image">
-        <img src="https://assets.jlscontent.com/photos/orsomls/220/195/220195316.jpg" alt=" 450 Wiley St " style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://assets.jlscontent.com/photos/orsomls/220/195/220195316-2.jpg" alt=" 450 Wiley St " style="width: 100%; height: 100%; object-fit: cover;">
         <div class="broker-image">
           <img src=" https://assets.jlscloud.net/account/dannagibson.png " alt="Danna Gibson">
         </div>
@@ -1714,6 +1714,51 @@
 
 
           <!--------------------------------------------------------------------------------------------------------------------------->
+
+
+<!-- Start Address 626 Park St -->
+  <div class="grid-item">
+  <div class="address">
+    <div class="address-header">OPEN HOUSE Sunday 1-3PM</div>
+    <div class="address-image">
+      <img src="https://www.jotform.com/uploads/jeffmeyers/61577418401859/6220234805512386191/9R9A1700%20-%20Living%20Room%20-%20Scandinavian%20-%2012.jpg" alt=" 626 Park St " style="width: 100%; height: 100%; object-fit: cover;">
+
+ <div class="broker-image-left"> <img src=" https://assets.jlscloud.net/account/mikekerlinger.png "
+                    alt="Mike Kerlinger"> </div>
+
+ <div class="broker-image-right"> <img src=" https://assets.jlscloud.net/account/kathleenking.png "
+                    alt="Kathleen King"> </div> 
+
+      <div class="broker-details">
+        
+         <div class="two-brokers-details-text">
+<div class="broker-text-left">
+                    <p style="line-height: 1;"><span>Mike Kerlinger</span></p>
+<p> <a  href="tel:(541) 621-7111" class="broker-phone-link">(541) 621-7111</a></p>
+</div>
+<div class="broker-text-right">
+ <p style="line-height: 1;"><span>Kathleen King</span></p> 
+<p><a href="tel:(541) 326-6393" class="broker-phone-link">(541) 326-6393</a></p>
+</div>
+
+      </div>
+</div>
+</div>
+<div class="address-bar">
+      <div class="address-info">626 Park St, Ashland</div>
+      <div class="price-info">$450,000</div>
+    </div>
+  <div class="address-description">
+    <p class="address-description-text">Fantastic south Ashland location with privacy and four different parks nearby! The home has a versatile floor plan with an expansive open living space overflowing with natural light, vaulted ceilings, windows on every wall, and a large skylight.</p>
+  </div>
+  <div class="address-more">
+    <a href="https://mikekerlinger.johnlscott.com/220200238" target="_blank" rel="noopener noreferrer" class="address-more-link">Click here to view more</a>
+  </div>
+</div>
+</div>
+<!-- End Address 626 Park St -->
+
+
 
     
     </div>
