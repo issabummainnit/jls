@@ -1,0 +1,184 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VKZJ58C1LH"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-VKZJ58C1LH');
+</script>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const div = document.createElement("div");
+        div.className = "jls-btn-fxd";
+        div.id = "jls-btn-fxd-div"; // Give the inner a tag a unique ID
+
+        // Create a link inside the div with a unique id
+        const link = document.createElement("a");
+        link.textContent = "Learn More";
+        link.href = "/home";
+
+        // Add event listener to the link
+        link.addEventListener("click", function () {
+            window.location.href = link.href; // Directly set the URL of the new page
+        });
+
+        // Append both the div and link to the body with a reference to their IDs
+        document.body.appendChild(div);
+        document.getElementById("jls-btn-fxd-div").appendChild(link);
+    });
+</script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var image = document.getElementById('agent-photo');
+        image.src = 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Iman%20Agent.jpg';
+    });
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-194849001-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-194849001-1');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5GD8MQF');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Meta Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+        n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '976441600099768');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=976441600099768&ev=PageView&noscript=1" /></noscript>
+<!-- End Meta Pixel Code -->
+
+
+
+
+
+
+
+<!-- Start Agent Code-->
+
+
+
+<script src="https://jls-assets-prod.s3-us-west-2.amazonaws.com/scripts/home_valuation_promo4.js?v=4.0"></script>
+
+<script>
+    const navbarToggle = document.querySelector('[data-toggle="collapse"]');
+
+    navbarToggle.addEventListener('click', () => {
+        const navbarCollapse = document.querySelector('.navbar-collapse');
+        const jlsNavContainer = document.querySelector('.jls-nav-container');
+
+        if (navbarCollapse.classList.contains('in')) {
+            jlsNavContainer.style.background = 'none';
+            jlsNavContainer.style.width = 'auto';
+            jlsNavContainer.style.padding = '0';
+        } else {
+            jlsNavContainer.style.background = 'rgba(255, 255, 255, 0.93)';
+            jlsNavContainer.style.width = '100%';
+            jlsNavContainer.style.padding = '0 20px';
+        }
+    });
+</script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        for (let i = 1; i <= 10; i++) {
+            const headshotUrl = getComputedStyle(document.documentElement).getPropertyValue(`--headshot-${i}`).trim().replace(/['"]+/g, '');
+            const headshotElement = document.getElementById(`dynamic-headshot-${i}`);
+            if (headshotElement) {
+                headshotElement.src = headshotUrl;
+            }
+
+            const logoUrl = getComputedStyle(document.documentElement).getPropertyValue(`--logo-${i}`).trim().replace(/['"]+/g, '');
+            const logoElement = document.getElementById(`dynamic-logo-${i}`);
+            if (logoElement) {
+                logoElement.src = logoUrl;
+            }
+
+            const imageUrl = getComputedStyle(document.documentElement).getPropertyValue(`--brand-photo-${i}`).trim().replace(/['"]+/g, '').replace(/['"]+/g, '');
+            const imgElement = document.getElementById(`dynamic-brand-photo-${i}`);
+            if (imgElement) {
+                imgElement.src = imageUrl;
+            }
+        }
+    });
+</script>
+
+
+
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Function to set social links dynamically
+        const setSocialLinks = () => {
+            const socialLinks = document.querySelectorAll('.social-icons a');
+            socialLinks.forEach(link => {
+                const variableName = link.getAttribute('href').replace('var(', '').replace(')', '');
+                const url = getComputedStyle(document.documentElement).getPropertyValue(variableName).trim().replace(/['"]+/g, '');
+                link.setAttribute('href', url);
+            });
+        };
+
+
+        setSocialLinks();
+
+
+        const observer = new MutationObserver(setSocialLinks);
+        observer.observe(document.documentElement, { attributes: true });
+    });
+</script>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var title = document.title;
+
+        var className = title.toLowerCase()
+            .replace(/\s+/g, '-')
+            .replace(/[^\w-]+/g, '');
+        console.log("Generated class name:", className);
+        document.body.classList.add(className);
+    });
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const tracker = document.querySelector(".navbar .jls-property-tracker");
+        if (tracker) {
+            const path = window.location.pathname;
+            if (path.includes("/search") || path.includes("/propertytracker") || path.includes("/market-insights")) {
+                tracker.style.display = "block";
+            }
+        }
+    });
+
+</script>

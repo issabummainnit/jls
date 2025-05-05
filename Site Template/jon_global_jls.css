@@ -1,0 +1,1242 @@
+#purechat-container .purechat-launcher-frame.purechat-launcher-frame-bottom-right {
+    bottom: 70px !important;
+    right: 10px !important;
+}
+
+.cky-consent-container {
+    position: fixed;
+    width: 85% !important;
+    box-sizing: border-box;
+    z-index: 9999999;
+}
+
+.cky-banner-bottom {
+    bottom: 0;
+    left: 0;
+    display: block;
+}
+
+.cky-btn-reject {
+    color: var(--white) !important;
+    background-color: var(--brand-color-1) !important;
+    display: none;
+}
+
+.cky-btn-accept {
+    color: var(--white) !important;
+    background-color: var(--brand-color-1) !important;
+}
+
+.cky-btn-customize {
+    color: var(--white) !important;
+    background-color: var(--brand-color-1) !important;
+}
+
+
+
+
+html.k-webkit.k-webkit131.k-mobile,
+html.k-webkit.k-webkit131,
+html.k-safari.k-safari605.k-mobile {
+    -webkit-transform: none !important;
+    -ms-transform: none !important;
+    transform: none !important;
+}
+
+/* Change Elements to Example  */
+
+
+.navbar .broker-name {
+    position: relative;
+    color: transparent;
+    /* Hide the original text */
+}
+
+.navbar .broker-name::after {
+    content: 'Iman Agent';
+    /* New text */
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    color: var(--white);
+    /* Set the color of the new text */
+}
+
+.jls-ask-me .jls-agent-name {
+    position: relative;
+    color: transparent !important;
+    /* Hide the original text */
+}
+
+.jls-ask-me .jls-agent-name::after {
+    content: 'Iman Agent';
+    /* New text */
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--brand-color-1);
+    /* Set the color of the new text */
+}
+
+/* End Change Elements to Example */
+
+
+
+.jls-btn-fxd {
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    z-index: 200;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+    font-size: 1.2em;
+    flex-wrap: wrap;
+    min-width: 100px;
+    min-height: 50px;
+    text-align: center;
+    padding: 1rem 3rem;
+    border-radius: 3px;
+    border: 2px solid var(--brand-color-1) !important;
+    color: var(--white);
+    border-color: var(--brand-color-1);
+    background-color: var(--brand-color-1);
+    transition: background-color ease 0.5s, opacity ease 0.5s;
+    cursor: pointer;
+}
+
+.jls-btn-fxd a {
+    color: var(--white);
+}
+
+.jls-btn-fxd:hover {
+    color: var(--brand-color-1);
+    background-color: var(--white);
+    opacity: 1;
+    border: 2px solid var(--brand-color-1) !important;
+}
+
+.jls-btn-fxd a:hover {
+    color: var(--brand-color-1);
+}
+
+
+
+:root {
+    --black: #222222;
+    --white: #FFFFFF;
+
+    --dark-gradient: linear-gradient(to bottom, rgba(55, 55, 55, 0.5), rgba(55, 55, 55, 0.75));
+    --dark-gradient-2: linear-gradient(to bottom, rgba(55, 55, 55, 0.15), rgba(55, 55, 55, 0.75));
+    --light-gradient: linear-gradient(to bottom, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.95));
+    --light-gradient-2: linear-gradient(to bottom, rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.5));
+
+    /* Dark Green */
+    --brand-color-1: #006341;
+    --brand-color-1-hover: #00442D;
+
+    /* Bright Green */
+    --brand-color-2: #52AA52;
+    --brand-color-2-hover: #4da34d;
+
+    /* Light Grey */
+    --brand-color-3: #EFEFEF;
+    --brand-color-3-hover: #DFDEDE;
+
+    /* Orange */
+    --brand-color-4: #FF8C00;
+    --brand-color-4-hover: #DD7900;
+
+    /* Color */
+    --brand-color-5: ;
+    --brand-color-5-hover: ;
+
+    /* Color */
+    --brand-color-6: ;
+    --brand-color-6-hover: ;
+
+
+    --body-font: "Roboto", Arial, Helvetica, sans-serif;
+    --header-font: "Roboto", Arial, Helvetica, sans-serif;
+    --accent-font: "Roboto", Arial, Helvetica, sans-serif;
+
+    --headshot-1: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Iman%20Agent.jpg';
+    /* Clipped Headshot */
+    --headshot-2: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Iman%20Agent@0.5x.png';
+    --headshot-3: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Iman%20Agent.jpg';
+    --headshot-4: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Iman%20Agent.jpg';
+    --headshot-5: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Iman%20Agent.jpg';
+
+    --logo-1: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/JLS%20Logo%20Stacked%20-%20White.png';
+    --logo-2: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/JLS%20Logo%20Stacked%20-%20White.png';
+    --logo-3: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/JLS%20Logo%20Stacked%20-%20White.png';
+    --logo-4: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/JLS%20Logo%20Stacked%20-%20White.png';
+    --logo-5: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/JLS%20Logo%20Stacked%20-%20White.png';
+
+    --brand-photo-1: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/House.jpg';
+    --brand-photo-2: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg';
+    --brand-photo-3: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Home%20Search.jpg';
+    --brand-photo-4: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg';
+    --brand-photo-5: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg';
+    --brand-photo-6: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg';
+    --brand-photo-7: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg';
+    --brand-photo-8: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg';
+    --brand-photo-9: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg';
+    --brand-photo-10: 'https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg';
+
+    --brand-photo-background-1: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/House.jpg');
+    --brand-photo-background-2: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg');
+    --brand-photo-background-3: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Home%20Search.jpg');
+    --brand-photo-background-4: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg');
+    --brand-photo-background-5: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg');
+    --brand-photo-background-6: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg');
+    --brand-photo-background-7: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg');
+    --brand-photo-background-8: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg');
+    --brand-photo-background-9: url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Table.jpg');
+    --brand-photo-background-10: ;
+
+    --facebook: 'https://www.facebook.com/jlsmedfordashland';
+    --instagram: 'https://www.instagram.com/jlsoregon';
+    --youtube: ;
+    --linkedin: ;
+    --email: 'mailto:somarketing@johnlscott.com';
+    --phone: 'tel:541-734-6296';
+
+}
+
+
+.hero {
+    font-size: clamp(5rem, 3vw + 1rem, 8rem);
+    line-height: .9;
+}
+
+h1 {
+    font-family: var(--header-font);
+    font-weight: 700;
+    font-style: normal;
+    font-size: clamp(3rem, 2.5vw + 1rem, 5rem);
+    line-height: .9;
+    letter-spacing: clamp(.05rem, .15vw, .3rem);
+    margin-top: auto;
+    text-wrap: pretty;
+}
+
+h2 {
+    font-family: var(--header-font);
+    font-weight: 500;
+    font-style: normal;
+    font-size: clamp(3rem, 2.2vw + 1rem, 4.235rem);
+    line-height: 1;
+    text-wrap: pretty;
+}
+
+h3 {
+    font-family: var(--header-font);
+    font-weight: 300;
+    font-style: normal;
+    font-size: clamp(2.5rem, 1.6vw + 1rem, 2.617rem);
+    line-height: 1;
+    text-wrap: pretty;
+}
+
+h4 {
+    font-family: var(--header-font);
+    font-weight: 300;
+    font-style: normal;
+    font-size: clamp(1.6rem, 1.2vw + 1rem, 1.9rem);
+    line-height: 1.2;
+    letter-spacing: clamp(.03rem, .04vw, .06rem);
+    text-wrap: pretty;
+}
+
+p,
+li,
+ul {
+    font-family: var(--body-font);
+    font-style: normal;
+    font-size: clamp(1.6rem, 0.35vw + 1rem, 2rem);
+    line-height: 1.3;
+    letter-spacing: clamp(.02rem, .03vw, .04rem);
+    text-wrap: pretty;
+}
+
+#jls-main {
+    background: var(--white);
+    text-wrap: pretty;
+}
+
+::selection {
+    background: var(--brand-color-2-hover);
+    color: var(--white);
+    text-shadow: none;
+}
+
+
+/* Scroll Bart width */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Scroll Bar Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #ededed;
+    border-radius: 10px;
+}
+
+/*Scroll Bar Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--brand-color-2);
+    border-radius: 10px;
+}
+
+/* Scroll bar Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: var(--brand-color-2-hover);
+}
+
+
+#smartbanner {
+    z-index: 2;
+}
+
+.container {
+    scroll-behavior: smooth;
+}
+
+
+div#jls-market-valuation a {
+    color: var(--white) !important;
+    font-weight: bold !important;
+    padding: 10px 13px 10px 20px !important;
+
+}
+
+div#jls-market-valuation {
+    border: 0px !important;
+    background-color: var(--brand-color-2) !important;
+    /*        box-shadow: 8px 8px 16px rgb(10, 10, 10, 0.3); */
+    background-size: cover !important;
+    left: -5px !important;
+    width: 160px !important;
+    border-radius: 0px 3px 3px 0px !important;
+}
+
+.sb-container {
+    display: none;
+}
+
+.cookie-banner.active {
+    bottom: 0;
+    display: none;
+}
+
+
+body {
+    position: relative;
+}
+
+@media (min-width: 1250px) {
+    .col-sm-12 {
+        padding-right: 14%;
+        padding-left: 14%;
+    }
+
+    /* Override style for the page with the title "Search for homes - John L. Scott Real Estate" */
+    .search-for-homes---john-l-scott-real-estate .col-sm-12 {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+}
+
+/* Activate for Transparent Navbar */
+
+/*
+    .jls-page-wrapper {
+        padding-top: 0 !important;
+    }
+    */
+
+
+video {
+    pointer-events: none;
+}
+
+
+
+
+@media (min-width: 770px) {
+    .dropdown-menu>li>a {
+        color: var(--white) !important;
+    }
+}
+
+@media (max-width: 1250px) {
+    .navbar-nav .open .dropdown-menu {
+        position: static;
+        float: none;
+        width: auto;
+        margin-top: 0;
+        background-color: transparent;
+        border: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+}
+
+@media (min-width: 1250px) {
+    .navbar-nav>li>a {
+        padding: 2.2rem 0.8rem;
+        font-size: medium;
+    }
+
+    .navbar>.container-fluid .navbar-brand {
+        padding-top: 2.2rem;
+    }
+}
+
+.navbar-fixed-top .navbar-collapse {
+    font-family: var(--header-font);
+    font-weight: 300;
+    font-style: Normal;
+}
+
+.dropdown-menu {
+    border-color: var(--brand-color-1);
+    background: var(--brand-color-1);
+    z-index: 1002 !important;
+}
+
+.navbar .jls-property-tracker {
+    display: none;
+}
+
+
+.navbar {
+    border-radius: 0px;
+    background-color: var(--black);
+
+    /* Activate for Transparent Navbar */
+    /*   background-image: var(--dark-gradient); */
+
+    border-bottom: 0px;
+    min-height: 66px;
+    font-family: var(--header-font);
+    font-weight: 300;
+    font-style: Normal;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.nav.navbar-nav.navbar-left>li:first-child {
+    display: none !important;
+}
+
+
+.navbar a,
+.dropdown-menu li a {
+    color: var(--white);
+    background-color: var(--white)fff00;
+    font-family: var(--header-font);
+    font-weight: 300;
+    font-style: Normal;
+    z-index: 1001;
+}
+
+
+.navbar .navbar-nav a:hover,
+.navbar .navbar-nav a:active,
+.navbar .navbar-nav a:focus,
+.navbar .navbar-nav .open>a,
+.navbar .navbar-nav .open>a:active,
+.navbar .navbar-nav .open>a:focus {
+    color: var(--white);
+    background-color: var(--brand-color-1);
+}
+
+.open>.dropdown-menu {
+    display: block !important;
+}
+
+.jls-nav-container {
+    background: var(--black) !important;
+    width: 100%;
+    padding: 0px 20px;
+}
+
+.dropdown-menu>.active>a,
+.dropdown-menu>.active>a:focus,
+.dropdown-menu>.active>a:hover {
+    color: var(--white);
+    text-decoration: none;
+    background-color: var(--brand-color-2);
+    outline: 0;
+}
+
+.navbar-toggle {
+    background-color: var(--brand-color-1);
+    font-family: var(--header-font);
+}
+
+.navbar .navbar-nav a:hover,
+.navbar .navbar-nav a:active,
+.navbar .navbar-nav a:focus,
+.navbar .navbar-nav .open>a,
+.navbar .navbar-nav .open>a:active,
+.navbar .navbar-nav .open>a:focus {
+    color: var(--white);
+    font-family: var(--header-font);
+}
+
+.navbar>.container-fluid .navbar-brand {
+    text-transform: uppercase;
+    font-family: var(--header-font);
+    letter-spacing: .07rem;
+    letter-spacing: .09rem;
+    font-weight: 300;
+    font-size: large;
+}
+
+
+@media (max-width: 500px) {
+    .navbar>.container-fluid .navbar-brand {
+        font-size: smaller;
+        padding: 20px 0 0 7px;
+
+    }
+}
+
+
+body {
+    color: var(--black);
+    font-family: var(--body-font);
+    font-weight: 300;
+    font-style: Normal;
+    overflow-x: hidden;
+    /* Hide horizontal scrollbar */
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+.jls-footer {
+    background: var(--white);
+    color: var(--brand-color-1);
+}
+
+.jls-footer a,
+.footer a:visited {
+    color: var(--black);
+}
+
+.jls-ask-me h1 {
+    display: none;
+}
+
+
+.fa-envelope:before {
+    content: "\f0e0";
+    color: var(--brand-color-2);
+}
+
+
+.jls-ask-me .jls-agent-name {
+    color: var(--black);
+    font-size: 2.2rem;
+    font-weight: 300 !important;
+    line-height: 2.5rem;
+    /* text-transform: uppercase;
+        letter-spacing: 2.8px;
+        display: none; */
+
+}
+
+.jls-ask-me .jls-agent {
+    margin-bottom: 8rem;
+    padding: 0;
+}
+
+
+.jls-ask-me {
+    border-top: 0px;
+    border-bottom: 0px;
+    margin-top: 10rem;
+    margin-bottom: 0rem;
+    padding-bottom: 2rem;
+}
+
+
+.jls-ask-me p {
+    margin: -11px 0 5px 0;
+    font-size: 2.1rem;
+    font-family: var(--accent-font);
+    color: var(--brand-color-2);
+    /* padding-left: 22.5rem; */
+}
+
+.jls-ask-me .jls-social-icons li {
+    margin-right: 3px;
+    padding: 3px;
+    width: 25px;
+    height: 25px;
+    border-radius: 3px;
+    background: var(--brand-color-3);
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+}
+
+.jls-ask-me .jls-agent-contact a {
+    font-size: 1.5rem;
+    display: block;
+}
+
+.fa-facebook-f:before,
+.fa-facebook:before {
+    content: "\f09a";
+    color: var(--brand-color-2);
+}
+
+.fa-linkedin:before {
+    content: "\f0e1";
+    color: var(--brand-color-2);
+}
+
+.fa-twitter:before {
+    content: "\f099";
+    color: var(--brand-color-2);
+}
+
+.fa-instagram:before {
+    color: var(--brand-color-2);
+}
+
+.fa-youtube:before {
+    color: var(--brand-color-2);
+}
+
+
+.jls-tab-pane-heading {
+    font-size: 2em;
+    font-weight: 300;
+    color: var(--brand-color-1);
+}
+
+.jls-buyer-tab-content a.jls-hollow-link:hover {
+    text-decoration: none;
+    color: var(--brand-color-1);
+    background-color: var(--white);
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid var(--brand-color-1);
+    display: block;
+    font-weight: 400;
+}
+
+.jls-buyer-tab-content a.jls-hollow-link {
+    text-decoration: none;
+    color: var(--white);
+    background-color: var(--brand-color-1);
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid var(--white);
+    display: block;
+    font-weight: 300;
+    font-size: 1.2em;
+    padding: 10px 20px;
+}
+
+#jls-buyer-tabs .nav-pills>li.active>a,
+#jls-buyer-tabs .nav-pills>li.active>a:focus,
+#jls-buyer-tabs .nav-pills>li.active>a:hover {
+    /* font-weight: 500; */
+    border-bottom: 4px solid var(--brand-color-1);
+    background-color: var(--white);
+}
+
+#jls-buyer-tabs .nav>li>a:focus,
+#jls-buyer-tabs .nav>li>a:hover,
+#jls-buyer-tabs .nav>li>a:active {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.0);
+    border-bottom: 4px solid var(--brand-color-1-hover);
+}
+
+
+.fa-heart-o {
+    color: var(--brand-color-1);
+}
+
+.fa-heart-o:before {
+    color: var(--brand-color-1) !important;
+}
+
+.fa-share-alt {
+    color: var(--brand-color-1);
+}
+
+.jls-broker-tile a {
+    color: var(--brand-color-1);
+}
+
+
+
+#details-msg-banner {
+    background: var(--white) !important;
+    opacity: 0.85 !important;
+    color: var(--brand-color-1) !important;
+    font-family: var(--body-font)
+}
+
+
+
+
+
+/* Transparent Nav bar 
+    
+      #details-msg-banner {
+        z-index: 1 !important;
+        background: var(--white) !important;
+        opacity: 0.85 !important;
+        color: var(--brand-color-1) !important;
+        font-size: 20px !important;
+        top: 0 !important;
+        padding-top: 66px !important;
+        font-family: var(--body-font)
+    }
+    
+    .jls-listing-detail-modal .modal-header {
+        padding-bottom: 4px !important;
+        position: fixed !important;
+        width: 100.1% !important;
+        border-bottom: none !important;
+        z-index: 100 !important;
+        top: -5px !important;
+        left: -1px !important;
+    }
+    
+    #details-container {
+        margin-top: 120px !important;
+    }
+    
+    .modal #details-msg-banner {
+    top: 15px !important;
+    }
+    
+    
+    */
+
+.jls-icon-btn {
+    color: var(--brand-color-1);
+}
+
+.jls-list-view-btn:hover,
+.jls-list-view-btn-active:hover {
+    color: var(--brand-color-1-hover);
+}
+
+.jls-toggle-criteria-view,
+.jls-toggle-list-view {
+    color: var(--brand-color-1);
+    cursor: pointer;
+}
+
+.jls-criteria-btn-active {
+    color: var(--white) !important;
+    background: var(--brand-color-1);
+}
+
+.jls-sliding-footer-tab {
+    color: var(--white);
+    background-color: var(--brand-color-1);
+}
+
+.jls-criteria-btn,
+.jls-school-search-button {
+    color: var(--white) !important;
+    background: var(--brand-color-1);
+}
+
+.jls-criteria-btn:hover,
+.jls-school-search-button:hover {
+    color: var(--white) !important;
+    background: var(--brand-color-1);
+}
+
+
+::-moz-selection {
+    background: var(--white);
+    /* Gecko Browsers */
+}
+
+
+.jls-listing-detail-modal .modal-header {
+    background-color: var(--brand-color-1);
+    border-top: 1px solid var(--brand-color-1);
+    border-left: 1px solid;
+}
+
+
+
+.jls-infowindow-address {
+    color: var(--brand-color-1);
+}
+
+.fa-heart-o:before {
+    color: var(--white);
+}
+
+.fa-facebook-official:before {
+    color: var(--white);
+}
+
+
+.fa-envelope-o:before {
+    color: var(--white);
+}
+
+.fa-paste:before,
+.fa-clipboard:before {
+    color: var(--white);
+}
+
+.fa-print:before {
+    color: var(--white);
+}
+
+.fa-external-link:before {
+    color: var(--white);
+}
+
+
+a.green-line,
+.jls-btn.green-line {
+    color: var(--brand-color-1);
+    border-color: var(--brand-color-1);
+    background-color: var(--white);
+}
+
+
+a.green-line:hover,
+.jls-btn.green-line:hover {
+    color: var(--white);
+    border-color: var(--brand-color-1);
+    background-color: var(--brand-color-1);
+}
+
+@media screen and (min-width: 992px) {
+    .jls-contact-me-form {
+        margin-top: 14rem;
+    }
+}
+
+.jls-contact-me-form {
+    margin-top: 8rem;
+}
+
+.jls-search-bar {
+    /* padding-top: 84px !important; */
+    background-color: var(--white);
+    border-bottom: 0px !important;
+}
+
+.jls-search-button.btn-success {
+    background: var(--brand-color-1);
+    border-color: var(--brand-color-1);
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.jls-search-button.btn-success:hover {
+    background: var(--brand-color-1-hover);
+    border-color: var(--brand-color-1-hover);
+    outline: none;
+
+}
+
+.jls-search-toggle {
+    color: var(--brand-color-1);
+}
+
+
+.autocomplete-suggestions strong {
+    font-weight: normal;
+    color: var(--brand-color-1) !important;
+}
+
+.jls-buyer-tab-content a.jls-hollow-link {
+    background-color: var(--brand-color-1);
+}
+
+a.jls-btn,
+.jls-btn {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100px;
+    min-height: 50px;
+    text-align: center;
+    padding: 1rem 3rem;
+    border-radius: 3px;
+    border: 2px solid var(--brand-color-1) !important;
+    color: var(--white);
+    border-color: var(--brand-color-1);
+    background-color: var(--brand-color-1);
+    transition: background-color ease 0.5s, opacity ease 0.5s;
+    cursor: pointer;
+}
+
+a.jls-btn:hover,
+a.jls-btn:active,
+.jls-btn:hover,
+.jls-btn:active {
+    color: var(--brand-color-1);
+    background-color: var(--white);
+    opacity: 1;
+    border: 2px solid var(--brand-color-1) !important;
+}
+
+a.jls-btn.force-hover {
+    color: var(--brand-color-1);
+    background-color: var(--white);
+    opacity: 1;
+    border: 2px solid var(--brand-color-1) !important;
+    pointer-events: none !important;
+    /* Make the button unclickable */
+}
+
+
+a.jls-btn-2,
+.jls-btn-2 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100px;
+    min-height: 50px;
+    text-align: center;
+    padding: 1rem 3rem;
+    border-radius: 3px;
+    border: 2px solid var(--brand-color-2);
+    color: var(--white);
+    border-color: var(--brand-color-2);
+    background-color: var(--brand-color-2);
+    transition: background-color ease 0.5s, opacity ease 0.5s;
+    cursor: pointer;
+}
+
+a.jls-btn-2:hover,
+a.jls-btn-2:active,
+.jls-btn-2:hover,
+.jls-btn-2:active {
+    color: var(--brand-color-2);
+    border-color: var(--brand-color-2);
+    background-color: var(--white);
+    opacity: 1;
+}
+
+a.jls-btn-2.force-hover {
+    color: var(--brand-color-2) !important;
+    border-color: var(--brand-color-2) !important;
+    background-color: var(--white) !important;
+    opacity: 1;
+    pointer-events: none !important;
+    /* Make the button unclickable */
+}
+
+
+a.jls-btn-3,
+.jls-btn-3 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100px;
+    min-height: 50px;
+    text-align: center;
+    padding: 1rem 3rem;
+    border-radius: 3px;
+    border: 2px solid var(--brand-color-4);
+    color: var(--white);
+    border-color: var(--brand-color-4);
+    background-color: var(--brand-color-4);
+    transition: background-color ease 0.5s, opacity ease 0.5s;
+    cursor: pointer;
+}
+
+a.jls-btn-3:hover,
+a.jls-btn-3:active,
+.jls-btn-3:hover,
+.jls-btn-3:active {
+    color: var(--brand-color-4);
+    border-color: var(--brand-color-4);
+    background-color: var(--white);
+    opacity: 1;
+}
+
+a.jls-btn3.force-hover {
+    color: var(--brand-color-4);
+    border-color: var(--brand-color-4);
+    background-color: var(--white);
+    opacity: 1;
+    pointer-events: none !important;
+    /* Make the button unclickable */
+}
+
+@media screen and (max-width: 767px) {
+    .jls-search-input-sm-visible {
+        top: 70px !important;
+        height: 67px !important;
+        z-index: 2 !important;
+    }
+
+    .jls-search-input-sm-adjust {
+        margin: 15px !important;
+    }
+}
+
+
+
+/* Fading animation 1*/
+
+.fade-1 {
+    -webkit-animation-name: fade-1;
+    -webkit-animation-duration: 2.6s;
+    animation-name: fade-1;
+    animation-duration: 2.6s;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes fade-1 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-1 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/* Fading animation 2 */
+
+.fade-2 {
+    -webkit-animation-name: fade-2;
+    -webkit-animation-duration: 2s;
+    animation-name: fade-2;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes fade-2 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-2 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+#jls-buyside-hero-image {
+    background-image: var(--light-gradient), url('https://jls-documents-prod.s3.amazonaws.com/public/users/300007253-26cd9603/Phoenix%20Oregon.png');
+    background-size: cover;
+    background-position: 50% 50%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+
+@media (min-device-width: 1025px) {
+    #jls-buyside-hero-image {
+        background-attachment: fixed;
+    }
+}
+
+#buysidewidgetcontainer {
+    position: inherit;
+    left: 0;
+    right: 0;
+    top: 200px;
+    margin: 60px auto 60px !important;
+    height: 50px;
+    padding: 0 10px;
+    width: 100% !important;
+    max-width: 1170px !important;
+}
+
+.buyside_widget_input_div {
+    overflow: visible;
+    padding-right: 65px !important;
+}
+
+input#buysidewidgetcontainerinputId {
+    border-radius: 4px;
+    border: 1px solid var(--brand-color-2);
+    padding: 20px;
+    color: var(--black);
+    max-width: 100%;
+    font-weight: 500;
+    font-size: clamp(1.4rem, 0.35vw + 1rem, 2rem);
+}
+
+.buyside_widget_input_div input {
+    width: 100%;
+    height: 60px;
+}
+
+button#buyside_widget_submit_id {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: var(--brand-color-1);
+    color: var(--white);
+    position: relative;
+    z-index: 99;
+    height: 60px;
+    width: 60px;
+}
+
+
+#valuation-heading {
+    font-size: inherit;
+}
+
+#valuation-heading h1 {
+    font-family: var(--header-font);
+    font-weight: 700;
+    font-style: normal;
+    font-size: clamp(3rem, 2.5vw + 1rem, 5rem);
+    line-height: clamp(3.9rem, 2.7vw + 1rem, 5.4rem);
+    letter-spacing: clamp(.05rem, .15vw, .3rem);
+    margin-top: auto;
+    font-optical-sizing: auto;
+    color: var(--brand-color-1);
+}
+
+#valuation-heading h3 {
+    font-family: var(--header-font);
+    color: var(--brand-color-2);
+    font-style: normal;
+    font-weight: 300;
+    font-style: normal;
+    font-size: clamp(3rem, 2.2vw + 1rem, 4.235rem);
+    line-height: clamp(3.6rem, 3.1vw + 1rem, 5.4rem);
+    font-optical-sizing: auto;
+    max-width: 900px;
+    text-wrap: pretty;
+    margin: 30px auto !important;
+}
+
+
+.buyside-callout {
+    border-radius: 4px;
+    padding: 15px 30px;
+    background-image: none;
+    background-color: var(--white);
+    border: 1px solid var(--brand-color-2);
+    color: var(--brand-color-2);
+}
+
+.buyside-callout-cont {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    flex-grow: 1;
+    /* max-width: 80%; */
+    margin: 10px auto;
+    border-radius: 4px;
+    padding: 0;
+}
+
+.buyside-callout h3 {
+    border-bottom: 1px solid var(--brand-color-2);
+    padding-bottom: 15px;
+    font-weight: 700;
+    font-size: clamp(1.6rem, 1.2vw + 1rem, 1.9rem);
+    line-height: clamp(2.5rem, 1.8vw + 1rem, 2.618rem);
+    letter-spacing: clamp(.03rem, .04vw, .06rem);
+    color: var(--brand-color-1);
+
+}
+
+.buyside-callout p {
+    padding-top: 15px;
+    font-family: var(--body-font);
+    font-style: normal;
+    font-size: clamp(1.4rem, 0.35vw + 1rem, 2rem);
+    line-height: clamp(2.5rem, 1.5vw + 1rem, 2.618rem);
+    letter-spacing: clamp(.02rem, .03vw, .04rem);
+}
+
+.jls-contact-details {
+    font-size: 100% !important;
+}
+
+
+#jls-buyside-hero-image .container {
+    scroll-behavior: smooth;
+    width: 100%;
+    max-width: 1170px;
+    padding: 0;
+}
+
+#jls-buyside-hero-image .jls-contact-details {
+    padding: calc(4vw + 50px) 8% 0;
+}
+
+.buyside_widget_autocomplete-items {
+    position: absolute;
+    padding: 4px 9px 4px 9px;
+    width: calc(100% - 65px) !important;
+    margin: 0;
+    border: 2px solid var(--white) !important;
+    border-bottom-left-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+    box-shadow: rgb(50 50 93 / 25%) 0px 13px 27px -5px, rgb(0 0 0 / 30%) 0px 8px 16px -8px;
+    font-family: var(--body-font);
+    z-index: 99;
+    right: 0;
+    background-color: var(--white);
+    max-height: 35vh;
+    overflow-y: auto;
+    text-align: left;
+}
+
+.buyside_widget_autocomplete-items div {
+    padding: 4px;
+    cursor: pointer;
+    background-color: var(--white);
+    font-size: clamp(1.4rem, 0.35vw + 1rem, 2rem) !important;
+}
+
+.buyside_widget_autocomplete-items div strong {
+    color: var(--brand-color-1);
+}
