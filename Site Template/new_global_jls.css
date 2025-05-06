@@ -9,7 +9,7 @@
     --brand-color-1: #006341;
     --brand-color-1-hover: #00442D;
     --brand-color-2: #52AA52;
-    --brand-color-2-hover: #4da34d;
+    --brand-color-2-hover: var(--brand-color-2-hover);
     --brand-color-3: #EFEFEF;
     --brand-color-3-hover: #DFDEDE;
     --brand-color-4: #FF8C00;
@@ -6403,22 +6403,22 @@ img {
     font-weight: 100;
 }
 .jls-search-button.btn-success {
-    background: #51ab51;
-    border-color: #51ab51;
+    background: var(--brand-color-2);
+    border-color: var(--brand-color-2);
     box-shadow: none;
 }
 .jls-search-button.btn-success:hover {
-    background: #4da34d;
-    border-color: #4da34d;
+    background: var(--brand-color-2-hover);
+    border-color: var(--brand-color-2-hover);
     outline: none;
 }
 .jls-search-button.btn-success:focus {
-    background: #4a934a;
-    border-color: #4a934a;
+    background: var(--brand-color-2-hover);
+    border-color: var(--brand-color-2-hover);
     outline: none;
 }
 .jls-search-toggle {
-    color:#51ab51;
+    color:var(--brand-color-2);
 }
 
 /* jls brand mastead */
@@ -6894,7 +6894,7 @@ input#jls-search-input {
     padding: 0;
 }
 .jls-ask-me .jls-agent-name {
-    color: #4cae4c;
+    color: var(--brand-color-2);
     margin-top: 0;
 }
 .jls-ask-me .jls-agent-contact a {
