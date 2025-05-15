@@ -1,0 +1,67 @@
+<div class="wrapper">
+    <div class="book">
+        <iframe class="flipper" src="https://online.fliphtml5.com/yjqy/uhku" seamless="seamless" scrolling="no"
+            frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+        </iframe>
+    </div>
+</div>
+
+<style>
+    .jls-cell-8 {
+        background-color: #fff;
+        /* background-image:
+            linear-gradient(to bottom, rgba(255, 255, 255, .5), rgba(255, 255, 255, 0.9)),
+            url('https://jls-documents-prod.s3.amazonaws.com/public/users/300000380-309612ed/Luxury%20Landing%20Pages/1345%20NE%209th%20St/ApxNE9%20(4).jpg'); */
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .jls-cell-8 .wrapper {
+        display: grid;
+        grid-template-columns: 12.5% auto 12.5%;
+        grid-template-rows: 5rem auto 5rem;
+        z-index: 0;
+    }
+
+    .jls-cell-8 .book {
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+        z-index: 1;
+        height: 100%;
+        margin: auto;
+    }
+
+
+
+
+    @media (max-width: 750px) {
+        .jls-cell-8 .flipper {
+            width: 27rem;
+            height: 37rem;
+        }
+    }
+
+    @media (min-width: 750px) {
+        .jls-cell-8 .flipper {
+            width: 60rem;
+            height: 48rem;
+        }
+    }
+
+
+    @media (min-width: 1150px) {
+        .jls-cell-8 .flipper {
+            width: 90rem;
+            height: 60rem;
+        }
+    }
+
+    @media (min-device-width: 1025px) {
+
+        .jls-cell-8 {
+            background-attachment: fixed;
+        }
+    }
+</style>
+
